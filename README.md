@@ -299,10 +299,9 @@ git push origin feature/your-feature
 
 ## 👤 Author
 
-**Your Name**  
-🎓 Computer Science / AI Engineering Student  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/YOUR_USERNAME)
+**Kusan Chakraborty **  
+🎓 Computer Science Engineering Student  
+🔗 [LinkedIn](https://www.linkedin.com/in/kusan-chakraborty-988225359) 
 
 > *Built as a portfolio project demonstrating autonomous systems, computer vision, path planning, and simulation.*
 
