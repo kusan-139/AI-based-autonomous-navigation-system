@@ -1,0 +1,620 @@
+09:31:07 | INFO    | === Session started: sim_20260414_093107 ===
+09:31:07 | INFO    | Log file: outputs/logs\sim_20260414_093107.log
+09:31:07 | INFO    | YOLO detected 4 objects
+09:31:07 | INFO    | PATH    computed  waypoints=49
+09:31:08 | DEBUG   | FRAME 00001  state=DRIVE   speed=3.00  fps=60.0
+09:31:08 | DEBUG   | FRAME 00002  state=DRIVE   speed=3.00  fps=0.0
+09:31:08 | DEBUG   | FRAME 00003  state=DRIVE   speed=3.00  fps=0.0
+09:31:08 | DEBUG   | FRAME 00004  state=DRIVE   speed=3.00  fps=0.0
+09:31:08 | DEBUG   | FRAME 00005  state=DRIVE   speed=3.00  fps=0.0
+09:31:08 | DEBUG   | FRAME 00006  state=DRIVE   speed=3.00  fps=0.0
+09:31:08 | DEBUG   | FRAME 00007  state=DRIVE   speed=3.00  fps=0.0
+09:31:08 | DEBUG   | FRAME 00008  state=DRIVE   speed=3.00  fps=0.0
+09:31:08 | DEBUG   | FRAME 00009  state=DRIVE   speed=3.00  fps=0.0
+09:31:08 | DEBUG   | FRAME 00010  state=DRIVE   speed=3.00  fps=0.0
+09:31:08 | DEBUG   | FRAME 00011  state=DRIVE   speed=3.00  fps=0.0
+09:31:08 | DEBUG   | FRAME 00012  state=DRIVE   speed=3.00  fps=59.2
+09:31:08 | DEBUG   | FRAME 00013  state=DRIVE   speed=3.00  fps=59.2
+09:31:08 | DEBUG   | FRAME 00014  state=DRIVE   speed=3.00  fps=59.2
+09:31:08 | DEBUG   | FRAME 00015  state=DRIVE   speed=3.00  fps=59.2
+09:31:08 | DEBUG   | FRAME 00016  state=DRIVE   speed=3.00  fps=59.2
+09:31:08 | DEBUG   | FRAME 00017  state=DRIVE   speed=3.00  fps=59.2
+09:31:08 | DEBUG   | FRAME 00018  state=DRIVE   speed=3.00  fps=59.2
+09:31:08 | DEBUG   | FRAME 00019  state=DRIVE   speed=3.00  fps=59.2
+09:31:08 | DEBUG   | FRAME 00020  state=DRIVE   speed=3.00  fps=59.2
+09:31:08 | DEBUG   | FRAME 00021  state=DRIVE   speed=3.00  fps=59.2
+09:31:08 | DEBUG   | FRAME 00022  state=DRIVE   speed=3.00  fps=58.5
+09:31:08 | DEBUG   | FRAME 00023  state=DRIVE   speed=3.00  fps=58.5
+09:31:08 | DEBUG   | FRAME 00024  state=DRIVE   speed=3.00  fps=58.5
+09:31:08 | DEBUG   | FRAME 00025  state=DRIVE   speed=3.00  fps=58.5
+09:31:08 | DEBUG   | FRAME 00026  state=DRIVE   speed=3.00  fps=58.5
+09:31:08 | DEBUG   | FRAME 00027  state=DRIVE   speed=3.00  fps=58.5
+09:31:08 | DEBUG   | FRAME 00028  state=DRIVE   speed=3.00  fps=58.5
+09:31:08 | DEBUG   | FRAME 00029  state=DRIVE   speed=3.00  fps=58.5
+09:31:08 | DEBUG   | FRAME 00030  state=DRIVE   speed=3.00  fps=58.5
+09:31:08 | DEBUG   | FRAME 00031  state=DRIVE   speed=3.00  fps=58.5
+09:31:08 | DEBUG   | FRAME 00032  state=DRIVE   speed=3.00  fps=58.5
+09:31:08 | DEBUG   | FRAME 00033  state=DRIVE   speed=3.00  fps=58.5
+09:31:08 | DEBUG   | FRAME 00034  state=DRIVE   speed=3.00  fps=58.5
+09:31:08 | DEBUG   | FRAME 00035  state=DRIVE   speed=3.00  fps=58.5
+09:31:08 | DEBUG   | FRAME 00036  state=DRIVE   speed=3.00  fps=58.5
+09:31:08 | DEBUG   | FRAME 00037  state=DRIVE   speed=3.00  fps=58.5
+09:31:08 | DEBUG   | FRAME 00038  state=DRIVE   speed=3.00  fps=58.5
+09:31:08 | DEBUG   | FRAME 00039  state=DRIVE   speed=3.00  fps=58.5
+09:31:08 | DEBUG   | FRAME 00040  state=DRIVE   speed=3.00  fps=58.5
+09:31:08 | DEBUG   | FRAME 00041  state=DRIVE   speed=3.00  fps=58.5
+09:31:08 | DEBUG   | FRAME 00042  state=DRIVE   speed=3.00  fps=58.8
+09:31:08 | DEBUG   | FRAME 00043  state=DRIVE   speed=3.00  fps=58.8
+09:31:08 | DEBUG   | FRAME 00044  state=DRIVE   speed=3.00  fps=58.8
+09:31:08 | DEBUG   | FRAME 00045  state=DRIVE   speed=3.00  fps=58.8
+09:31:08 | DEBUG   | FRAME 00046  state=DRIVE   speed=3.00  fps=58.8
+09:31:08 | DEBUG   | FRAME 00047  state=DRIVE   speed=3.00  fps=58.8
+09:31:08 | DEBUG   | FRAME 00048  state=DRIVE   speed=3.00  fps=58.8
+09:31:08 | DEBUG   | FRAME 00049  state=DRIVE   speed=3.00  fps=58.8
+09:31:08 | WARNING | OBSTACLE pos=( 226, 106)  dist=  57.5px  threat=WARNING
+09:31:08 | INFO    | STATE  DRIVE  → SLOW
+09:31:08 | DEBUG   | FRAME 00050  state=SLOW    speed=1.50  fps=58.8
+09:31:08 | WARNING | OBSTACLE pos=( 226, 106)  dist=  56.0px  threat=WARNING
+09:31:08 | DEBUG   | FRAME 00051  state=SLOW    speed=1.50  fps=58.8
+09:31:08 | WARNING | OBSTACLE pos=( 226, 106)  dist=  56.0px  threat=WARNING
+09:31:08 | DEBUG   | FRAME 00052  state=SLOW    speed=1.50  fps=55.6
+09:31:08 | WARNING | OBSTACLE pos=( 226, 106)  dist=  54.6px  threat=WARNING
+09:31:08 | DEBUG   | FRAME 00053  state=SLOW    speed=1.50  fps=55.6
+09:31:08 | WARNING | OBSTACLE pos=( 226, 106)  dist=  53.1px  threat=WARNING
+09:31:08 | DEBUG   | FRAME 00054  state=SLOW    speed=1.50  fps=55.6
+09:31:08 | WARNING | OBSTACLE pos=( 226, 106)  dist=  51.7px  threat=WARNING
+09:31:08 | DEBUG   | FRAME 00055  state=SLOW    speed=1.50  fps=55.6
+09:31:08 | WARNING | OBSTACLE pos=( 226, 106)  dist=  50.2px  threat=WARNING
+09:31:08 | DEBUG   | FRAME 00056  state=SLOW    speed=1.50  fps=55.6
+09:31:08 | WARNING | OBSTACLE pos=( 226, 106)  dist=  48.8px  threat=WARNING
+09:31:08 | DEBUG   | FRAME 00057  state=SLOW    speed=1.50  fps=55.6
+09:31:08 | WARNING | OBSTACLE pos=( 226, 106)  dist=  47.4px  threat=WARNING
+09:31:08 | DEBUG   | FRAME 00058  state=SLOW    speed=1.50  fps=55.6
+09:31:08 | WARNING | OBSTACLE pos=( 226, 106)  dist=  45.9px  threat=WARNING
+09:31:09 | DEBUG   | FRAME 00059  state=SLOW    speed=1.50  fps=55.6
+09:31:09 | WARNING | OBSTACLE pos=( 226, 106)  dist=  44.5px  threat=WARNING
+09:31:09 | DEBUG   | FRAME 00060  state=SLOW    speed=1.50  fps=55.6
+09:31:09 | WARNING | OBSTACLE pos=( 226, 106)  dist=  43.1px  threat=WARNING
+09:31:09 | DEBUG   | FRAME 00061  state=SLOW    speed=1.50  fps=55.6
+09:31:09 | WARNING | OBSTACLE pos=( 226, 106)  dist=  41.6px  threat=WARNING
+09:31:09 | DEBUG   | FRAME 00062  state=SLOW    speed=1.50  fps=58.1
+09:31:09 | WARNING | OBSTACLE pos=( 226, 106)  dist=  40.2px  threat=WARNING
+09:31:09 | DEBUG   | FRAME 00063  state=SLOW    speed=1.50  fps=58.1
+09:31:09 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:09 | INFO    | STATE  SLOW   → STOP
+09:31:09 | DEBUG   | FRAME 00064  state=STOP    speed=0.00  fps=58.1
+09:31:09 | INFO    | PAUSED
+09:31:16 | INFO    | RESUMED
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00293  state=STOP    speed=0.00  fps=60.6
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00294  state=STOP    speed=0.00  fps=60.6
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00295  state=STOP    speed=0.00  fps=60.6
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00296  state=STOP    speed=0.00  fps=60.6
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00297  state=STOP    speed=0.00  fps=60.6
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00298  state=STOP    speed=0.00  fps=60.6
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00299  state=STOP    speed=0.00  fps=60.6
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00300  state=STOP    speed=0.00  fps=60.6
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00301  state=STOP    speed=0.00  fps=60.6
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00302  state=STOP    speed=0.00  fps=59.9
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00303  state=STOP    speed=0.00  fps=59.9
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00304  state=STOP    speed=0.00  fps=59.9
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00305  state=STOP    speed=0.00  fps=59.9
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00306  state=STOP    speed=0.00  fps=59.9
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00307  state=STOP    speed=0.00  fps=59.9
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00308  state=STOP    speed=0.00  fps=59.9
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00309  state=STOP    speed=0.00  fps=59.9
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00310  state=STOP    speed=0.00  fps=59.9
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00311  state=STOP    speed=0.00  fps=59.9
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00312  state=STOP    speed=0.00  fps=59.9
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00313  state=STOP    speed=0.00  fps=59.9
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00314  state=STOP    speed=0.00  fps=59.9
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00315  state=STOP    speed=0.00  fps=59.9
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00316  state=STOP    speed=0.00  fps=59.9
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00317  state=STOP    speed=0.00  fps=59.9
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00318  state=STOP    speed=0.00  fps=59.9
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00319  state=STOP    speed=0.00  fps=59.9
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00320  state=STOP    speed=0.00  fps=59.9
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00321  state=STOP    speed=0.00  fps=59.9
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  38.8px  threat=DANGER
+09:31:16 | INFO    | STATE  STOP   → AVOID
+09:31:16 | WARNING | REPLAN  triggered from pos=(189,119)
+09:31:16 | DEBUG   | FRAME 00322  state=AVOID   speed=2.10  fps=60.2
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  36.9px  threat=DANGER
+09:31:16 | INFO    | STATE  AVOID  → DRIVE
+09:31:16 | DEBUG   | FRAME 00323  state=DRIVE   speed=3.00  fps=60.2
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  36.9px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00324  state=DRIVE   speed=3.00  fps=60.2
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  34.1px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00325  state=DRIVE   speed=3.00  fps=60.2
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  31.3px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00326  state=DRIVE   speed=3.00  fps=60.2
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  28.6px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00327  state=DRIVE   speed=3.00  fps=60.2
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  26.0px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00328  state=DRIVE   speed=3.00  fps=60.2
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  23.4px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00329  state=DRIVE   speed=3.00  fps=60.2
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  21.0px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00330  state=DRIVE   speed=3.00  fps=60.2
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  18.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00331  state=DRIVE   speed=3.00  fps=60.2
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  18.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00332  state=DRIVE   speed=3.00  fps=51.5
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  16.8px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00333  state=DRIVE   speed=3.00  fps=51.5
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  15.2px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00334  state=DRIVE   speed=3.00  fps=51.5
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  14.1px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00335  state=DRIVE   speed=3.00  fps=51.5
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  13.5px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00336  state=DRIVE   speed=3.00  fps=51.5
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  13.6px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00337  state=DRIVE   speed=3.00  fps=51.5
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  14.4px  threat=DANGER
+09:31:16 | DEBUG   | FRAME 00338  state=DRIVE   speed=3.00  fps=51.5
+09:31:16 | WARNING | OBSTACLE pos=( 226, 106)  dist=  15.7px  threat=DANGER
+09:31:17 | DEBUG   | FRAME 00339  state=DRIVE   speed=3.00  fps=51.5
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  15.7px  threat=DANGER
+09:31:17 | DEBUG   | FRAME 00340  state=DRIVE   speed=3.00  fps=51.5
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  17.3px  threat=DANGER
+09:31:17 | DEBUG   | FRAME 00341  state=DRIVE   speed=3.00  fps=51.5
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  19.3px  threat=DANGER
+09:31:17 | DEBUG   | FRAME 00342  state=DRIVE   speed=3.00  fps=59.9
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  21.5px  threat=DANGER
+09:31:17 | DEBUG   | FRAME 00343  state=DRIVE   speed=3.00  fps=59.9
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  23.9px  threat=DANGER
+09:31:17 | DEBUG   | FRAME 00344  state=DRIVE   speed=3.00  fps=59.9
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  26.4px  threat=DANGER
+09:31:17 | DEBUG   | FRAME 00345  state=DRIVE   speed=3.00  fps=59.9
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  29.0px  threat=DANGER
+09:31:17 | DEBUG   | FRAME 00346  state=DRIVE   speed=3.00  fps=59.9
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  29.0px  threat=DANGER
+09:31:17 | DEBUG   | FRAME 00347  state=DRIVE   speed=3.00  fps=59.9
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  31.7px  threat=DANGER
+09:31:17 | DEBUG   | FRAME 00348  state=DRIVE   speed=3.00  fps=59.9
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  34.4px  threat=DANGER
+09:31:17 | DEBUG   | FRAME 00349  state=DRIVE   speed=3.00  fps=59.9
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  37.2px  threat=DANGER
+09:31:17 | DEBUG   | FRAME 00350  state=DRIVE   speed=3.00  fps=59.9
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  40.0px  threat=DANGER
+09:31:17 | DEBUG   | FRAME 00351  state=DRIVE   speed=3.00  fps=59.9
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  42.8px  threat=WARNING
+09:31:17 | INFO    | STATE  DRIVE  → SLOW
+09:31:17 | DEBUG   | FRAME 00352  state=SLOW    speed=1.50  fps=60.2
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  44.2px  threat=WARNING
+09:31:17 | DEBUG   | FRAME 00353  state=SLOW    speed=1.50  fps=60.2
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  45.6px  threat=WARNING
+09:31:17 | DEBUG   | FRAME 00354  state=SLOW    speed=1.50  fps=60.2
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  47.1px  threat=WARNING
+09:31:17 | DEBUG   | FRAME 00355  state=SLOW    speed=1.50  fps=60.2
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  48.5px  threat=WARNING
+09:31:17 | DEBUG   | FRAME 00356  state=SLOW    speed=1.50  fps=60.2
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  48.5px  threat=WARNING
+09:31:17 | DEBUG   | FRAME 00357  state=SLOW    speed=1.50  fps=60.2
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  49.9px  threat=WARNING
+09:31:17 | DEBUG   | FRAME 00358  state=SLOW    speed=1.50  fps=60.2
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  51.4px  threat=WARNING
+09:31:17 | DEBUG   | FRAME 00359  state=SLOW    speed=1.50  fps=60.2
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  52.9px  threat=WARNING
+09:31:17 | DEBUG   | FRAME 00360  state=SLOW    speed=1.50  fps=60.2
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  54.3px  threat=WARNING
+09:31:17 | DEBUG   | FRAME 00361  state=SLOW    speed=1.50  fps=60.2
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  55.8px  threat=WARNING
+09:31:17 | DEBUG   | FRAME 00362  state=SLOW    speed=1.50  fps=58.8
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  57.2px  threat=WARNING
+09:31:17 | DEBUG   | FRAME 00363  state=SLOW    speed=1.50  fps=58.8
+09:31:17 | WARNING | OBSTACLE pos=( 226, 106)  dist=  58.7px  threat=WARNING
+09:31:17 | DEBUG   | FRAME 00364  state=SLOW    speed=1.50  fps=58.8
+09:31:17 | INFO    | STATE  SLOW   → DRIVE
+09:31:17 | DEBUG   | FRAME 00365  state=DRIVE   speed=3.00  fps=58.8
+09:31:17 | DEBUG   | FRAME 00366  state=DRIVE   speed=3.00  fps=58.8
+09:31:17 | DEBUG   | FRAME 00367  state=DRIVE   speed=3.00  fps=58.8
+09:31:17 | DEBUG   | FRAME 00368  state=DRIVE   speed=3.00  fps=58.8
+09:31:17 | DEBUG   | FRAME 00369  state=DRIVE   speed=3.00  fps=58.8
+09:31:17 | DEBUG   | FRAME 00370  state=DRIVE   speed=3.00  fps=58.8
+09:31:17 | DEBUG   | FRAME 00371  state=DRIVE   speed=3.00  fps=58.8
+09:31:17 | DEBUG   | FRAME 00372  state=DRIVE   speed=3.00  fps=60.2
+09:31:17 | DEBUG   | FRAME 00373  state=DRIVE   speed=3.00  fps=60.2
+09:31:17 | DEBUG   | FRAME 00374  state=DRIVE   speed=3.00  fps=60.2
+09:31:17 | DEBUG   | FRAME 00375  state=DRIVE   speed=3.00  fps=60.2
+09:31:17 | DEBUG   | FRAME 00376  state=DRIVE   speed=3.00  fps=60.2
+09:31:17 | DEBUG   | FRAME 00377  state=DRIVE   speed=3.00  fps=60.2
+09:31:17 | DEBUG   | FRAME 00378  state=DRIVE   speed=3.00  fps=60.2
+09:31:17 | DEBUG   | FRAME 00379  state=DRIVE   speed=3.00  fps=60.2
+09:31:17 | DEBUG   | FRAME 00380  state=DRIVE   speed=3.00  fps=60.2
+09:31:17 | DEBUG   | FRAME 00381  state=DRIVE   speed=3.00  fps=60.2
+09:31:17 | DEBUG   | FRAME 00382  state=DRIVE   speed=3.00  fps=61.0
+09:31:17 | DEBUG   | FRAME 00383  state=DRIVE   speed=3.00  fps=61.0
+09:31:17 | DEBUG   | FRAME 00384  state=DRIVE   speed=3.00  fps=61.0
+09:31:17 | DEBUG   | FRAME 00385  state=DRIVE   speed=3.00  fps=61.0
+09:31:17 | DEBUG   | FRAME 00386  state=DRIVE   speed=3.00  fps=61.0
+09:31:17 | DEBUG   | FRAME 00387  state=DRIVE   speed=3.00  fps=61.0
+09:31:17 | DEBUG   | FRAME 00388  state=DRIVE   speed=3.00  fps=61.0
+09:31:17 | DEBUG   | FRAME 00389  state=DRIVE   speed=3.00  fps=61.0
+09:31:17 | DEBUG   | FRAME 00390  state=DRIVE   speed=3.00  fps=61.0
+09:31:17 | DEBUG   | FRAME 00391  state=DRIVE   speed=3.00  fps=61.0
+09:31:17 | DEBUG   | FRAME 00392  state=DRIVE   speed=3.00  fps=61.0
+09:31:17 | DEBUG   | FRAME 00393  state=DRIVE   speed=3.00  fps=61.0
+09:31:17 | DEBUG   | FRAME 00394  state=DRIVE   speed=3.00  fps=61.0
+09:31:17 | DEBUG   | FRAME 00395  state=DRIVE   speed=3.00  fps=61.0
+09:31:17 | DEBUG   | FRAME 00396  state=DRIVE   speed=3.00  fps=61.0
+09:31:17 | DEBUG   | FRAME 00397  state=DRIVE   speed=3.00  fps=61.0
+09:31:17 | DEBUG   | FRAME 00398  state=DRIVE   speed=3.00  fps=61.0
+09:31:17 | DEBUG   | FRAME 00399  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00400  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00401  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00402  state=DRIVE   speed=3.00  fps=59.9
+09:31:18 | DEBUG   | FRAME 00403  state=DRIVE   speed=3.00  fps=59.9
+09:31:18 | DEBUG   | FRAME 00404  state=DRIVE   speed=3.00  fps=59.9
+09:31:18 | DEBUG   | FRAME 00405  state=DRIVE   speed=3.00  fps=59.9
+09:31:18 | DEBUG   | FRAME 00406  state=DRIVE   speed=3.00  fps=59.9
+09:31:18 | DEBUG   | FRAME 00407  state=DRIVE   speed=3.00  fps=59.9
+09:31:18 | DEBUG   | FRAME 00408  state=DRIVE   speed=3.00  fps=59.9
+09:31:18 | DEBUG   | FRAME 00409  state=DRIVE   speed=3.00  fps=59.9
+09:31:18 | DEBUG   | FRAME 00410  state=DRIVE   speed=3.00  fps=59.9
+09:31:18 | DEBUG   | FRAME 00411  state=DRIVE   speed=3.00  fps=59.9
+09:31:18 | DEBUG   | FRAME 00412  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00413  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00414  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00415  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00416  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00417  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00418  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00419  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00420  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00421  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00422  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00423  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00424  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00425  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00426  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00427  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00428  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00429  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00430  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00431  state=DRIVE   speed=3.00  fps=61.0
+09:31:18 | DEBUG   | FRAME 00432  state=DRIVE   speed=3.00  fps=60.2
+09:31:18 | DEBUG   | FRAME 00433  state=DRIVE   speed=3.00  fps=60.2
+09:31:18 | DEBUG   | FRAME 00434  state=DRIVE   speed=3.00  fps=60.2
+09:31:18 | DEBUG   | FRAME 00435  state=DRIVE   speed=3.00  fps=60.2
+09:31:18 | DEBUG   | FRAME 00436  state=DRIVE   speed=3.00  fps=60.2
+09:31:18 | DEBUG   | FRAME 00437  state=DRIVE   speed=3.00  fps=60.2
+09:31:18 | DEBUG   | FRAME 00438  state=DRIVE   speed=3.00  fps=60.2
+09:31:18 | DEBUG   | FRAME 00439  state=DRIVE   speed=3.00  fps=60.2
+09:31:18 | WARNING | OBSTACLE pos=( 382, 305)  dist=  59.1px  threat=WARNING
+09:31:18 | INFO    | STATE  DRIVE  → SLOW
+09:31:18 | DEBUG   | FRAME 00440  state=SLOW    speed=1.50  fps=60.2
+09:31:18 | WARNING | OBSTACLE pos=( 382, 305)  dist=  57.8px  threat=WARNING
+09:31:18 | DEBUG   | FRAME 00441  state=SLOW    speed=1.50  fps=60.2
+09:31:18 | WARNING | OBSTACLE pos=( 382, 305)  dist=  56.4px  threat=WARNING
+09:31:18 | DEBUG   | FRAME 00442  state=SLOW    speed=1.50  fps=60.2
+09:31:18 | WARNING | OBSTACLE pos=( 382, 305)  dist=  56.4px  threat=WARNING
+09:31:18 | DEBUG   | FRAME 00443  state=SLOW    speed=1.50  fps=60.2
+09:31:18 | WARNING | OBSTACLE pos=( 382, 305)  dist=  55.2px  threat=WARNING
+09:31:18 | DEBUG   | FRAME 00444  state=SLOW    speed=1.50  fps=60.2
+09:31:18 | WARNING | OBSTACLE pos=( 382, 305)  dist=  54.0px  threat=WARNING
+09:31:18 | DEBUG   | FRAME 00445  state=SLOW    speed=1.50  fps=60.2
+09:31:18 | WARNING | OBSTACLE pos=( 382, 305)  dist=  52.7px  threat=WARNING
+09:31:18 | DEBUG   | FRAME 00446  state=SLOW    speed=1.50  fps=60.2
+09:31:18 | WARNING | OBSTACLE pos=( 382, 305)  dist=  51.5px  threat=WARNING
+09:31:18 | DEBUG   | FRAME 00447  state=SLOW    speed=1.50  fps=60.2
+09:31:18 | WARNING | OBSTACLE pos=( 382, 305)  dist=  50.3px  threat=WARNING
+09:31:18 | DEBUG   | FRAME 00448  state=SLOW    speed=1.50  fps=60.2
+09:31:18 | WARNING | OBSTACLE pos=( 382, 305)  dist=  49.2px  threat=WARNING
+09:31:18 | DEBUG   | FRAME 00449  state=SLOW    speed=1.50  fps=60.2
+09:31:18 | WARNING | OBSTACLE pos=( 382, 305)  dist=  48.0px  threat=WARNING
+09:31:18 | DEBUG   | FRAME 00450  state=SLOW    speed=1.50  fps=60.2
+09:31:18 | WARNING | OBSTACLE pos=( 382, 305)  dist=  46.9px  threat=WARNING
+09:31:18 | DEBUG   | FRAME 00451  state=SLOW    speed=1.50  fps=60.2
+09:31:18 | WARNING | OBSTACLE pos=( 382, 305)  dist=  45.8px  threat=WARNING
+09:31:18 | DEBUG   | FRAME 00452  state=SLOW    speed=1.50  fps=59.2
+09:31:18 | WARNING | OBSTACLE pos=( 382, 305)  dist=  44.7px  threat=WARNING
+09:31:18 | DEBUG   | FRAME 00453  state=SLOW    speed=1.50  fps=59.2
+09:31:18 | WARNING | OBSTACLE pos=( 382, 305)  dist=  43.6px  threat=WARNING
+09:31:18 | DEBUG   | FRAME 00454  state=SLOW    speed=1.50  fps=59.2
+09:31:18 | WARNING | OBSTACLE pos=( 382, 305)  dist=  42.6px  threat=WARNING
+09:31:18 | DEBUG   | FRAME 00455  state=SLOW    speed=1.50  fps=59.2
+09:31:18 | WARNING | OBSTACLE pos=( 382, 305)  dist=  41.6px  threat=WARNING
+09:31:18 | DEBUG   | FRAME 00456  state=SLOW    speed=1.50  fps=59.2
+09:31:18 | WARNING | OBSTACLE pos=( 382, 305)  dist=  41.6px  threat=WARNING
+09:31:18 | DEBUG   | FRAME 00457  state=SLOW    speed=1.50  fps=59.2
+09:31:18 | WARNING | OBSTACLE pos=( 382, 305)  dist=  41.0px  threat=WARNING
+09:31:18 | DEBUG   | FRAME 00458  state=SLOW    speed=1.50  fps=59.2
+09:31:18 | WARNING | OBSTACLE pos=( 382, 305)  dist=  40.5px  threat=WARNING
+09:31:18 | DEBUG   | FRAME 00459  state=SLOW    speed=1.50  fps=59.2
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  40.1px  threat=WARNING
+09:31:19 | DEBUG   | FRAME 00460  state=SLOW    speed=1.50  fps=59.2
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | INFO    | STATE  SLOW   → STOP
+09:31:19 | DEBUG   | FRAME 00461  state=STOP    speed=0.00  fps=59.2
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00462  state=STOP    speed=0.00  fps=61.0
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00463  state=STOP    speed=0.00  fps=61.0
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00464  state=STOP    speed=0.00  fps=61.0
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00465  state=STOP    speed=0.00  fps=61.0
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00466  state=STOP    speed=0.00  fps=61.0
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00467  state=STOP    speed=0.00  fps=61.0
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00468  state=STOP    speed=0.00  fps=61.0
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00469  state=STOP    speed=0.00  fps=61.0
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00470  state=STOP    speed=0.00  fps=61.0
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00471  state=STOP    speed=0.00  fps=61.0
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00472  state=STOP    speed=0.00  fps=59.5
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00473  state=STOP    speed=0.00  fps=59.5
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00474  state=STOP    speed=0.00  fps=59.5
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00475  state=STOP    speed=0.00  fps=59.5
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00476  state=STOP    speed=0.00  fps=59.5
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00477  state=STOP    speed=0.00  fps=59.5
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00478  state=STOP    speed=0.00  fps=59.5
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00479  state=STOP    speed=0.00  fps=59.5
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00480  state=STOP    speed=0.00  fps=59.5
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00481  state=STOP    speed=0.00  fps=59.5
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00482  state=STOP    speed=0.00  fps=61.3
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00483  state=STOP    speed=0.00  fps=61.3
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00484  state=STOP    speed=0.00  fps=61.3
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00485  state=STOP    speed=0.00  fps=61.3
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00486  state=STOP    speed=0.00  fps=61.3
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00487  state=STOP    speed=0.00  fps=61.3
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00488  state=STOP    speed=0.00  fps=61.3
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00489  state=STOP    speed=0.00  fps=61.3
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00490  state=STOP    speed=0.00  fps=61.3
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.7px  threat=DANGER
+09:31:19 | INFO    | STATE  STOP   → AVOID
+09:31:19 | WARNING | REPLAN  triggered from pos=(409,276)
+09:31:19 | DEBUG   | FRAME 00491  state=AVOID   speed=2.10  fps=61.3
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.2px  threat=DANGER
+09:31:19 | INFO    | STATE  AVOID  → DRIVE
+09:31:19 | DEBUG   | FRAME 00492  state=DRIVE   speed=3.00  fps=53.2
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  38.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00493  state=DRIVE   speed=3.00  fps=53.2
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  38.5px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00494  state=DRIVE   speed=3.00  fps=53.2
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  38.5px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00495  state=DRIVE   speed=3.00  fps=53.2
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  38.7px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00496  state=DRIVE   speed=3.00  fps=53.2
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.2px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00497  state=DRIVE   speed=3.00  fps=53.2
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.9px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00498  state=DRIVE   speed=3.00  fps=53.2
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  39.9px  threat=DANGER
+09:31:19 | DEBUG   | FRAME 00499  state=DRIVE   speed=3.00  fps=53.2
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  41.3px  threat=WARNING
+09:31:19 | INFO    | STATE  DRIVE  → SLOW
+09:31:19 | DEBUG   | FRAME 00500  state=SLOW    speed=1.50  fps=53.2
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  42.0px  threat=WARNING
+09:31:19 | DEBUG   | FRAME 00501  state=SLOW    speed=1.50  fps=53.2
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  42.8px  threat=WARNING
+09:31:19 | DEBUG   | FRAME 00502  state=SLOW    speed=1.50  fps=44.4
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  43.7px  threat=WARNING
+09:31:19 | DEBUG   | FRAME 00503  state=SLOW    speed=1.50  fps=44.4
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  44.5px  threat=WARNING
+09:31:19 | DEBUG   | FRAME 00504  state=SLOW    speed=1.50  fps=44.4
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  45.4px  threat=WARNING
+09:31:19 | DEBUG   | FRAME 00505  state=SLOW    speed=1.50  fps=44.4
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  46.4px  threat=WARNING
+09:31:19 | DEBUG   | FRAME 00506  state=SLOW    speed=1.50  fps=44.4
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  47.3px  threat=WARNING
+09:31:19 | DEBUG   | FRAME 00507  state=SLOW    speed=1.50  fps=44.4
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  48.3px  threat=WARNING
+09:31:19 | DEBUG   | FRAME 00508  state=SLOW    speed=1.50  fps=44.4
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  49.3px  threat=WARNING
+09:31:19 | DEBUG   | FRAME 00509  state=SLOW    speed=1.50  fps=44.4
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  50.4px  threat=WARNING
+09:31:19 | DEBUG   | FRAME 00510  state=SLOW    speed=1.50  fps=44.4
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  51.4px  threat=WARNING
+09:31:19 | DEBUG   | FRAME 00511  state=SLOW    speed=1.50  fps=44.4
+09:31:19 | WARNING | OBSTACLE pos=( 382, 305)  dist=  52.5px  threat=WARNING
+09:31:20 | DEBUG   | FRAME 00512  state=SLOW    speed=1.50  fps=47.4
+09:31:20 | WARNING | OBSTACLE pos=( 382, 305)  dist=  53.6px  threat=WARNING
+09:31:20 | DEBUG   | FRAME 00513  state=SLOW    speed=1.50  fps=47.4
+09:31:20 | WARNING | OBSTACLE pos=( 382, 305)  dist=  54.8px  threat=WARNING
+09:31:20 | DEBUG   | FRAME 00514  state=SLOW    speed=1.50  fps=47.4
+09:31:20 | WARNING | OBSTACLE pos=( 382, 305)  dist=  54.8px  threat=WARNING
+09:31:20 | DEBUG   | FRAME 00515  state=SLOW    speed=1.50  fps=47.4
+09:31:20 | WARNING | OBSTACLE pos=( 382, 305)  dist=  56.0px  threat=WARNING
+09:31:20 | DEBUG   | FRAME 00516  state=SLOW    speed=1.50  fps=47.4
+09:31:20 | WARNING | OBSTACLE pos=( 382, 305)  dist=  57.3px  threat=WARNING
+09:31:20 | DEBUG   | FRAME 00517  state=SLOW    speed=1.50  fps=47.4
+09:31:20 | WARNING | OBSTACLE pos=( 382, 305)  dist=  58.6px  threat=WARNING
+09:31:20 | DEBUG   | FRAME 00518  state=SLOW    speed=1.50  fps=47.4
+09:31:20 | WARNING | OBSTACLE pos=( 382, 305)  dist=  59.8px  threat=WARNING
+09:31:20 | DEBUG   | FRAME 00519  state=SLOW    speed=1.50  fps=47.4
+09:31:20 | INFO    | STATE  SLOW   → DRIVE
+09:31:20 | DEBUG   | FRAME 00520  state=DRIVE   speed=3.00  fps=47.4
+09:31:20 | DEBUG   | FRAME 00521  state=DRIVE   speed=3.00  fps=47.4
+09:31:20 | DEBUG   | FRAME 00522  state=DRIVE   speed=3.00  fps=61.3
+09:31:20 | DEBUG   | FRAME 00523  state=DRIVE   speed=3.00  fps=61.3
+09:31:20 | DEBUG   | FRAME 00524  state=DRIVE   speed=3.00  fps=61.3
+09:31:20 | DEBUG   | FRAME 00525  state=DRIVE   speed=3.00  fps=61.3
+09:31:20 | DEBUG   | FRAME 00526  state=DRIVE   speed=3.00  fps=61.3
+09:31:20 | DEBUG   | FRAME 00527  state=DRIVE   speed=3.00  fps=61.3
+09:31:20 | DEBUG   | FRAME 00528  state=DRIVE   speed=3.00  fps=61.3
+09:31:20 | DEBUG   | FRAME 00529  state=DRIVE   speed=3.00  fps=61.3
+09:31:20 | DEBUG   | FRAME 00530  state=DRIVE   speed=3.00  fps=61.3
+09:31:20 | DEBUG   | FRAME 00531  state=DRIVE   speed=3.00  fps=61.3
+09:31:20 | DEBUG   | FRAME 00532  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00533  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00534  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00535  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00536  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00537  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00538  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00539  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00540  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00541  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00542  state=DRIVE   speed=3.00  fps=55.9
+09:31:20 | DEBUG   | FRAME 00543  state=DRIVE   speed=3.00  fps=55.9
+09:31:20 | DEBUG   | FRAME 00544  state=DRIVE   speed=3.00  fps=55.9
+09:31:20 | DEBUG   | FRAME 00545  state=DRIVE   speed=3.00  fps=55.9
+09:31:20 | DEBUG   | FRAME 00546  state=DRIVE   speed=3.00  fps=55.9
+09:31:20 | DEBUG   | FRAME 00547  state=DRIVE   speed=3.00  fps=55.9
+09:31:20 | DEBUG   | FRAME 00548  state=DRIVE   speed=3.00  fps=55.9
+09:31:20 | DEBUG   | FRAME 00549  state=DRIVE   speed=3.00  fps=55.9
+09:31:20 | DEBUG   | FRAME 00550  state=DRIVE   speed=3.00  fps=55.9
+09:31:20 | DEBUG   | FRAME 00551  state=DRIVE   speed=3.00  fps=55.9
+09:31:20 | DEBUG   | FRAME 00552  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00553  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00554  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00555  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00556  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00557  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00558  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00559  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00560  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00561  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00562  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00563  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00564  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00565  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00566  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00567  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00568  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00569  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00570  state=DRIVE   speed=3.00  fps=60.2
+09:31:20 | DEBUG   | FRAME 00571  state=DRIVE   speed=3.00  fps=60.2
+09:31:21 | DEBUG   | FRAME 00572  state=DRIVE   speed=3.00  fps=60.6
+09:31:21 | DEBUG   | FRAME 00573  state=DRIVE   speed=3.00  fps=60.6
+09:31:21 | DEBUG   | FRAME 00574  state=DRIVE   speed=3.00  fps=60.6
+09:31:21 | DEBUG   | FRAME 00575  state=DRIVE   speed=3.00  fps=60.6
+09:31:21 | DEBUG   | FRAME 00576  state=DRIVE   speed=3.00  fps=60.6
+09:31:21 | DEBUG   | FRAME 00577  state=DRIVE   speed=3.00  fps=60.6
+09:31:21 | DEBUG   | FRAME 00578  state=DRIVE   speed=3.00  fps=60.6
+09:31:21 | DEBUG   | FRAME 00579  state=DRIVE   speed=3.00  fps=60.6
+09:31:21 | DEBUG   | FRAME 00580  state=DRIVE   speed=3.00  fps=60.6
+09:31:21 | DEBUG   | FRAME 00581  state=DRIVE   speed=3.00  fps=60.6
+09:31:21 | DEBUG   | FRAME 00582  state=DRIVE   speed=3.00  fps=59.5
+09:31:21 | DEBUG   | FRAME 00583  state=DRIVE   speed=3.00  fps=59.5
+09:31:21 | DEBUG   | FRAME 00584  state=DRIVE   speed=3.00  fps=59.5
+09:31:21 | DEBUG   | FRAME 00585  state=DRIVE   speed=3.00  fps=59.5
+09:31:21 | DEBUG   | FRAME 00586  state=DRIVE   speed=3.00  fps=59.5
+09:31:21 | DEBUG   | FRAME 00587  state=DRIVE   speed=3.00  fps=59.5
+09:31:21 | DEBUG   | FRAME 00588  state=DRIVE   speed=3.00  fps=59.5
+09:31:21 | DEBUG   | FRAME 00589  state=DRIVE   speed=3.00  fps=59.5
+09:31:21 | DEBUG   | FRAME 00590  state=DRIVE   speed=3.00  fps=59.5
+09:31:21 | DEBUG   | FRAME 00591  state=DRIVE   speed=3.00  fps=59.5
+09:31:21 | DEBUG   | FRAME 00592  state=DRIVE   speed=3.00  fps=59.9
+09:31:21 | DEBUG   | FRAME 00593  state=DRIVE   speed=3.00  fps=59.9
+09:31:21 | DEBUG   | FRAME 00594  state=DRIVE   speed=3.00  fps=59.9
+09:31:21 | DEBUG   | FRAME 00595  state=DRIVE   speed=3.00  fps=59.9
+09:31:21 | DEBUG   | FRAME 00596  state=DRIVE   speed=3.00  fps=59.9
+09:31:21 | DEBUG   | FRAME 00597  state=DRIVE   speed=3.00  fps=59.9
+09:31:21 | DEBUG   | FRAME 00598  state=DRIVE   speed=3.00  fps=59.9
+09:31:21 | DEBUG   | FRAME 00599  state=DRIVE   speed=3.00  fps=59.9
+09:31:21 | DEBUG   | FRAME 00600  state=DRIVE   speed=3.00  fps=59.9
+09:31:21 | DEBUG   | FRAME 00601  state=DRIVE   speed=3.00  fps=59.9
+09:31:21 | DEBUG   | FRAME 00602  state=DRIVE   speed=3.00  fps=60.2
+09:31:21 | DEBUG   | FRAME 00603  state=DRIVE   speed=3.00  fps=60.2
+09:31:21 | DEBUG   | FRAME 00604  state=DRIVE   speed=3.00  fps=60.2
+09:31:21 | DEBUG   | FRAME 00605  state=DRIVE   speed=3.00  fps=60.2
+09:31:21 | DEBUG   | FRAME 00606  state=DRIVE   speed=3.00  fps=60.2
+09:31:21 | DEBUG   | FRAME 00607  state=DRIVE   speed=3.00  fps=60.2
+09:31:21 | DEBUG   | FRAME 00608  state=DRIVE   speed=3.00  fps=60.2
+09:31:21 | DEBUG   | FRAME 00609  state=DRIVE   speed=3.00  fps=60.2
+09:31:21 | DEBUG   | FRAME 00610  state=DRIVE   speed=3.00  fps=60.2
+09:31:21 | DEBUG   | FRAME 00611  state=DRIVE   speed=3.00  fps=60.2
+09:31:21 | DEBUG   | FRAME 00612  state=DRIVE   speed=3.00  fps=59.2
+09:31:21 | INFO    | PAUSED
+09:31:27 | INFO    | RESET — car returned to start
+09:31:28 | INFO    | RESET — car returned to start
+09:31:31 | INFO    | RESUMED
+09:31:31 | DEBUG   | FRAME 01163  state=DRIVE   speed=3.00  fps=62.1
+09:31:31 | DEBUG   | FRAME 01164  state=DRIVE   speed=3.00  fps=62.1
+09:31:31 | DEBUG   | FRAME 01165  state=DRIVE   speed=3.00  fps=62.1
+09:31:31 | DEBUG   | FRAME 01166  state=DRIVE   speed=3.00  fps=62.1
+09:31:31 | DEBUG   | FRAME 01167  state=DRIVE   speed=3.00  fps=62.1
+09:31:31 | DEBUG   | FRAME 01168  state=DRIVE   speed=3.00  fps=62.1
+09:31:31 | DEBUG   | FRAME 01169  state=DRIVE   speed=3.00  fps=62.1
+09:31:31 | DEBUG   | FRAME 01170  state=DRIVE   speed=3.00  fps=62.1
+09:31:31 | DEBUG   | FRAME 01171  state=DRIVE   speed=3.00  fps=62.1
+09:31:31 | DEBUG   | FRAME 01172  state=DRIVE   speed=3.00  fps=58.8
+09:31:31 | DEBUG   | FRAME 01173  state=DRIVE   speed=3.00  fps=58.8
+09:31:31 | DEBUG   | FRAME 01174  state=DRIVE   speed=3.00  fps=58.8
+09:31:31 | DEBUG   | FRAME 01175  state=DRIVE   speed=3.00  fps=58.8
+09:31:31 | DEBUG   | FRAME 01176  state=DRIVE   speed=3.00  fps=58.8
+09:31:31 | DEBUG   | FRAME 01177  state=DRIVE   speed=3.00  fps=58.8
+09:31:31 | DEBUG   | FRAME 01178  state=DRIVE   speed=3.00  fps=58.8
+09:31:31 | DEBUG   | FRAME 01179  state=DRIVE   speed=3.00  fps=58.8
+09:31:31 | DEBUG   | FRAME 01180  state=DRIVE   speed=3.00  fps=58.8
+09:31:31 | DEBUG   | FRAME 01181  state=DRIVE   speed=3.00  fps=58.8
+09:31:31 | DEBUG   | FRAME 01182  state=DRIVE   speed=3.00  fps=59.9
+09:31:31 | DEBUG   | FRAME 01183  state=DRIVE   speed=3.00  fps=59.9
+09:31:31 | DEBUG   | FRAME 01184  state=DRIVE   speed=3.00  fps=59.9
+09:31:31 | DEBUG   | FRAME 01185  state=DRIVE   speed=3.00  fps=59.9
+09:31:31 | DEBUG   | FRAME 01186  state=DRIVE   speed=3.00  fps=59.9
+09:31:31 | DEBUG   | FRAME 01187  state=DRIVE   speed=3.00  fps=59.9
+09:31:31 | DEBUG   | FRAME 01188  state=DRIVE   speed=3.00  fps=59.9
+09:31:31 | DEBUG   | FRAME 01189  state=DRIVE   speed=3.00  fps=59.9
+09:31:31 | DEBUG   | FRAME 01190  state=DRIVE   speed=3.00  fps=59.9
+09:31:31 | DEBUG   | FRAME 01191  state=DRIVE   speed=3.00  fps=59.9
+09:31:31 | DEBUG   | FRAME 01192  state=DRIVE   speed=3.00  fps=61.0
+09:31:31 | DEBUG   | FRAME 01193  state=DRIVE   speed=3.00  fps=61.0
+09:31:31 | DEBUG   | FRAME 01194  state=DRIVE   speed=3.00  fps=61.0
+09:31:31 | DEBUG   | FRAME 01195  state=DRIVE   speed=3.00  fps=61.0
+09:31:31 | DEBUG   | FRAME 01196  state=DRIVE   speed=3.00  fps=61.0
+09:31:31 | DEBUG   | FRAME 01197  state=DRIVE   speed=3.00  fps=61.0
+09:31:31 | DEBUG   | FRAME 01198  state=DRIVE   speed=3.00  fps=61.0
+09:31:31 | DEBUG   | FRAME 01199  state=DRIVE   speed=3.00  fps=61.0
+09:31:31 | DEBUG   | FRAME 01200  state=DRIVE   speed=3.00  fps=61.0
+09:31:31 | DEBUG   | FRAME 01201  state=DRIVE   speed=3.00  fps=61.0
+09:31:31 | DEBUG   | FRAME 01202  state=DRIVE   speed=3.00  fps=60.2
+09:31:31 | DEBUG   | FRAME 01203  state=DRIVE   speed=3.00  fps=60.2
+09:31:31 | DEBUG   | FRAME 01204  state=DRIVE   speed=3.00  fps=60.2
+09:31:31 | INFO    | PAUSED
+09:31:32 | INFO    | RESET — car returned to start
+09:33:40 | INFO    | === Simulation ended ===

@@ -1,0 +1,5 @@
+21:54:36 | INFO    | === Session started: integration_test ===
+21:54:36 | INFO    | Log file: outputs/logs\integration_test.log
+21:54:36 | INFO    | STATE  DRIVE  → SLOW
+21:54:36 | INFO    | PATH    computed  waypoints=49
+21:54:36 | INFO    | Integration test complete

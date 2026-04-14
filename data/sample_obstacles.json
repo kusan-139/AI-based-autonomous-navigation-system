@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "label": "person",
+    "cx": 300,
+    "cy": 320,
+    "x1": 275,
+    "y1": 290,
+    "x2": 325,
+    "y2": 370,
+    "confidence": 0.92,
+    "source": "YOLO"
+  },
+  {
+    "id": 2,
+    "label": "car",
+    "cx": 500,
+    "cy": 280,
+    "x1": 460,
+    "y1": 255,
+    "x2": 540,
+    "y2": 305,
+    "confidence": 0.87,
+    "source": "YOLO"
+  },
+  {
+    "id": 3,
+    "label": "stop sign",
+    "cx": 660,
+    "cy": 100,
+    "x1": 640,
+    "y1": 80,
+    "x2": 680,
+    "y2": 120,
+    "confidence": 0.95,
+    "source": "YOLO"
+  },
+  {
+    "id": 4,
+    "label": "bicycle",
+    "cx": 380,
+    "cy": 500,
+    "x1": 355,
+    "y1": 475,
+    "x2": 405,
+    "y2": 530,
+    "confidence": 0.78,
+    "source": "YOLO"
+  },
+  {
+    "id": 5,
+    "label": "truck",
+    "cx": 200,
+    "cy": 320,
+    "x1": 155,
+    "y1": 290,
+    "x2": 245,
+    "y2": 355,
+    "confidence": 0.83,
+    "source": "YOLO"
+  },
+  {
+    "id": 6,
+    "label": "traffic light",
+    "cx": 820,
+    "cy": 280,
+    "x1": 808,
+    "y1": 260,
+    "x2": 832,
+    "y2": 300,
+    "confidence": 0.91,
+    "source": "YOLO"
+  }
+]

@@ -1,0 +1,34 @@
+21:56:39 | INFO    | === Session started: demo_run ===
+21:56:39 | INFO    | Log file: outputs/logs\demo_run.log
+21:56:39 | INFO    | PATH    computed  waypoints=49
+21:56:39 | INFO    | STATE  DRIVE  → SLOW
+21:56:39 | INFO    | STATE  SLOW   → STOP
+21:56:39 | INFO    | STATE  STOP   → AVOID
+21:56:39 | INFO    | STATE  AVOID  → STOP
+21:56:39 | INFO    | STATE  STOP   → AVOID
+21:56:39 | INFO    | STATE  AVOID  → STOP
+21:56:39 | INFO    | STATE  STOP   → AVOID
+21:56:39 | INFO    | STATE  AVOID  → STOP
+21:58:22 | INFO    | === Session started: demo_run ===
+21:58:22 | INFO    | Log file: outputs/logs\demo_run.log
+21:58:22 | INFO    | PATH    computed  waypoints=49
+21:58:22 | INFO    | STATE  DRIVE  → SLOW
+21:58:22 | INFO    | STATE  SLOW   → STOP
+21:58:22 | INFO    | STATE  STOP   → AVOID
+21:58:22 | INFO    | STATE  AVOID  → DRIVE
+21:58:22 | INFO    | STATE  DRIVE  → SLOW
+21:58:22 | INFO    | STATE  SLOW   → DRIVE
+21:58:22 | INFO    | STATE  DRIVE  → SLOW
+21:58:22 | INFO    | STATE  SLOW   → STOP
+21:58:22 | INFO    | STATE  STOP   → AVOID
+21:58:22 | INFO    | STATE  AVOID  → DRIVE
+21:58:22 | INFO    | STATE  DRIVE  → SLOW
+21:58:22 | INFO    | STATE  SLOW   → DRIVE
+21:58:22 | INFO    | STATE  DRIVE  → SLOW
+21:58:22 | INFO    | STATE  SLOW   → STOP
+21:58:22 | INFO    | STATE  STOP   → AVOID
+21:58:22 | INFO    | STATE  AVOID  → DRIVE
+21:58:22 | INFO    | STATE  DRIVE  → SLOW
+21:58:22 | INFO    | STATE  SLOW   → DRIVE
+21:58:22 | INFO    | STATE  DRIVE  → ARRIVE
+21:58:22 | INFO    | ARRIVE  goal reached after 524 frames

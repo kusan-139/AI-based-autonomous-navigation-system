@@ -1,0 +1,5266 @@
+{
+  "start": [
+    60,
+    60
+  ],
+  "goal": [
+    820,
+    570
+  ],
+  "algorithm": "A* (8-directional, octile heuristic)",
+  "seed": 99,
+  "frames_run": 524,
+  "final_pos": [
+    804.8,
+    559.1
+  ],
+  "state_distribution": {
+    "DRIVE": 333,
+    "SLOW": 97,
+    "STOP": 90,
+    "AVOID": 3,
+    "ARRIVE": 1
+  },
+  "telemetry": [
+    {
+      "frame": 1,
+      "x": 60.0,
+      "y": 60.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 915.3,
+      "wpts_left": 48
+    },
+    {
+      "frame": 2,
+      "x": 62.2,
+      "y": 62.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 915.3,
+      "wpts_left": 48
+    },
+    {
+      "frame": 3,
+      "x": 64.5,
+      "y": 64.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 912.3,
+      "wpts_left": 48
+    },
+    {
+      "frame": 4,
+      "x": 66.7,
+      "y": 66.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 909.3,
+      "wpts_left": 48
+    },
+    {
+      "frame": 5,
+      "x": 68.9,
+      "y": 68.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 906.4,
+      "wpts_left": 48
+    },
+    {
+      "frame": 6,
+      "x": 71.1,
+      "y": 70.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 903.4,
+      "wpts_left": 48
+    },
+    {
+      "frame": 7,
+      "x": 73.4,
+      "y": 72.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 900.4,
+      "wpts_left": 48
+    },
+    {
+      "frame": 8,
+      "x": 75.6,
+      "y": 74.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 897.4,
+      "wpts_left": 48
+    },
+    {
+      "frame": 9,
+      "x": 75.6,
+      "y": 74.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 894.5,
+      "wpts_left": 47
+    },
+    {
+      "frame": 10,
+      "x": 77.8,
+      "y": 76.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 894.5,
+      "wpts_left": 47
+    },
+    {
+      "frame": 11,
+      "x": 80.1,
+      "y": 78.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 891.5,
+      "wpts_left": 47
+    },
+    {
+      "frame": 12,
+      "x": 82.3,
+      "y": 80.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 888.5,
+      "wpts_left": 47
+    },
+    {
+      "frame": 13,
+      "x": 84.5,
+      "y": 82.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 885.6,
+      "wpts_left": 47
+    },
+    {
+      "frame": 14,
+      "x": 86.8,
+      "y": 84.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 882.6,
+      "wpts_left": 47
+    },
+    {
+      "frame": 15,
+      "x": 89.0,
+      "y": 86.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 879.6,
+      "wpts_left": 47
+    },
+    {
+      "frame": 16,
+      "x": 91.2,
+      "y": 88.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 876.7,
+      "wpts_left": 47
+    },
+    {
+      "frame": 17,
+      "x": 93.4,
+      "y": 90.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 873.7,
+      "wpts_left": 47
+    },
+    {
+      "frame": 18,
+      "x": 95.7,
+      "y": 92.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 870.7,
+      "wpts_left": 47
+    },
+    {
+      "frame": 19,
+      "x": 95.7,
+      "y": 92.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 867.8,
+      "wpts_left": 46
+    },
+    {
+      "frame": 20,
+      "x": 98.0,
+      "y": 94.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 867.8,
+      "wpts_left": 46
+    },
+    {
+      "frame": 21,
+      "x": 100.3,
+      "y": 95.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 864.8,
+      "wpts_left": 46
+    },
+    {
+      "frame": 22,
+      "x": 102.7,
+      "y": 97.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 861.8,
+      "wpts_left": 46
+    },
+    {
+      "frame": 23,
+      "x": 105.0,
+      "y": 99.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 858.8,
+      "wpts_left": 46
+    },
+    {
+      "frame": 24,
+      "x": 107.3,
+      "y": 101.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 855.8,
+      "wpts_left": 46
+    },
+    {
+      "frame": 25,
+      "x": 109.7,
+      "y": 103.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 852.8,
+      "wpts_left": 46
+    },
+    {
+      "frame": 26,
+      "x": 112.0,
+      "y": 105.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 849.9,
+      "wpts_left": 46
+    },
+    {
+      "frame": 27,
+      "x": 114.3,
+      "y": 107.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 846.9,
+      "wpts_left": 46
+    },
+    {
+      "frame": 28,
+      "x": 114.3,
+      "y": 107.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 843.9,
+      "wpts_left": 45
+    },
+    {
+      "frame": 29,
+      "x": 117.2,
+      "y": 108.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 843.9,
+      "wpts_left": 45
+    },
+    {
+      "frame": 30,
+      "x": 120.0,
+      "y": 109.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 841.0,
+      "wpts_left": 45
+    },
+    {
+      "frame": 31,
+      "x": 122.8,
+      "y": 110.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 838.1,
+      "wpts_left": 45
+    },
+    {
+      "frame": 32,
+      "x": 125.6,
+      "y": 111.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 835.1,
+      "wpts_left": 45
+    },
+    {
+      "frame": 33,
+      "x": 128.5,
+      "y": 112.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 832.2,
+      "wpts_left": 45
+    },
+    {
+      "frame": 34,
+      "x": 131.3,
+      "y": 113.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 829.3,
+      "wpts_left": 45
+    },
+    {
+      "frame": 35,
+      "x": 134.1,
+      "y": 114.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 826.4,
+      "wpts_left": 45
+    },
+    {
+      "frame": 36,
+      "x": 134.1,
+      "y": 114.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 823.5,
+      "wpts_left": 44
+    },
+    {
+      "frame": 37,
+      "x": 137.1,
+      "y": 114.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 823.5,
+      "wpts_left": 44
+    },
+    {
+      "frame": 38,
+      "x": 140.0,
+      "y": 115.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 820.8,
+      "wpts_left": 44
+    },
+    {
+      "frame": 39,
+      "x": 143.0,
+      "y": 115.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 818.1,
+      "wpts_left": 44
+    },
+    {
+      "frame": 40,
+      "x": 146.0,
+      "y": 116.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 815.3,
+      "wpts_left": 44
+    },
+    {
+      "frame": 41,
+      "x": 148.9,
+      "y": 116.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 812.6,
+      "wpts_left": 44
+    },
+    {
+      "frame": 42,
+      "x": 151.9,
+      "y": 116.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 809.9,
+      "wpts_left": 44
+    },
+    {
+      "frame": 43,
+      "x": 151.9,
+      "y": 116.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 807.2,
+      "wpts_left": 43
+    },
+    {
+      "frame": 44,
+      "x": 154.9,
+      "y": 117.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 807.2,
+      "wpts_left": 43
+    },
+    {
+      "frame": 45,
+      "x": 157.9,
+      "y": 117.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 804.6,
+      "wpts_left": 43
+    },
+    {
+      "frame": 46,
+      "x": 160.9,
+      "y": 117.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 802.0,
+      "wpts_left": 43
+    },
+    {
+      "frame": 47,
+      "x": 163.9,
+      "y": 117.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 799.4,
+      "wpts_left": 43
+    },
+    {
+      "frame": 48,
+      "x": 166.9,
+      "y": 118.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 796.8,
+      "wpts_left": 43
+    },
+    {
+      "frame": 49,
+      "x": 169.9,
+      "y": 118.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 794.2,
+      "wpts_left": 43
+    },
+    {
+      "frame": 50,
+      "x": 171.4,
+      "y": 118.4,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 791.7,
+      "wpts_left": 43
+    },
+    {
+      "frame": 51,
+      "x": 171.4,
+      "y": 118.4,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 790.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 52,
+      "x": 172.9,
+      "y": 118.4,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 790.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 53,
+      "x": 174.4,
+      "y": 118.5,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 789.1,
+      "wpts_left": 42
+    },
+    {
+      "frame": 54,
+      "x": 175.9,
+      "y": 118.5,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 787.9,
+      "wpts_left": 42
+    },
+    {
+      "frame": 55,
+      "x": 177.4,
+      "y": 118.5,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 786.6,
+      "wpts_left": 42
+    },
+    {
+      "frame": 56,
+      "x": 178.9,
+      "y": 118.6,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 785.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 57,
+      "x": 180.4,
+      "y": 118.6,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 784.1,
+      "wpts_left": 42
+    },
+    {
+      "frame": 58,
+      "x": 181.9,
+      "y": 118.6,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 782.9,
+      "wpts_left": 42
+    },
+    {
+      "frame": 59,
+      "x": 183.4,
+      "y": 118.7,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 781.6,
+      "wpts_left": 42
+    },
+    {
+      "frame": 60,
+      "x": 184.9,
+      "y": 118.7,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 780.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 61,
+      "x": 186.4,
+      "y": 118.7,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 779.2,
+      "wpts_left": 42
+    },
+    {
+      "frame": 62,
+      "x": 187.9,
+      "y": 118.8,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 777.9,
+      "wpts_left": 42
+    },
+    {
+      "frame": 63,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 776.7,
+      "wpts_left": 42
+    },
+    {
+      "frame": 64,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 65,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 66,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 67,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 68,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 69,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 70,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 71,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 72,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 73,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 74,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 75,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 76,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 77,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 78,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 79,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 80,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 81,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 82,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 83,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 84,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 85,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 86,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 87,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 88,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 89,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 90,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 91,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 92,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 93,
+      "x": 189.4,
+      "y": 118.8,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 94,
+      "x": 191.5,
+      "y": 118.8,
+      "state": "AVOID",
+      "speed": 0.7,
+      "threat": "DANGER",
+      "dist_to_goal": 775.4,
+      "wpts_left": 42
+    },
+    {
+      "frame": 95,
+      "x": 191.5,
+      "y": 118.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 773.7,
+      "wpts_left": 41
+    },
+    {
+      "frame": 96,
+      "x": 194.5,
+      "y": 118.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 773.7,
+      "wpts_left": 41
+    },
+    {
+      "frame": 97,
+      "x": 197.5,
+      "y": 118.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 771.3,
+      "wpts_left": 41
+    },
+    {
+      "frame": 98,
+      "x": 200.5,
+      "y": 118.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 768.8,
+      "wpts_left": 41
+    },
+    {
+      "frame": 99,
+      "x": 203.5,
+      "y": 118.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 766.4,
+      "wpts_left": 41
+    },
+    {
+      "frame": 100,
+      "x": 206.5,
+      "y": 118.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 763.9,
+      "wpts_left": 41
+    },
+    {
+      "frame": 101,
+      "x": 209.5,
+      "y": 118.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 761.5,
+      "wpts_left": 41
+    },
+    {
+      "frame": 102,
+      "x": 212.5,
+      "y": 119.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 759.1,
+      "wpts_left": 41
+    },
+    {
+      "frame": 103,
+      "x": 212.5,
+      "y": 119.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 756.7,
+      "wpts_left": 40
+    },
+    {
+      "frame": 104,
+      "x": 215.4,
+      "y": 119.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 756.7,
+      "wpts_left": 40
+    },
+    {
+      "frame": 105,
+      "x": 218.4,
+      "y": 119.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 754.2,
+      "wpts_left": 40
+    },
+    {
+      "frame": 106,
+      "x": 221.4,
+      "y": 119.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 751.7,
+      "wpts_left": 40
+    },
+    {
+      "frame": 107,
+      "x": 224.4,
+      "y": 119.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 749.3,
+      "wpts_left": 40
+    },
+    {
+      "frame": 108,
+      "x": 227.4,
+      "y": 119.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 746.8,
+      "wpts_left": 40
+    },
+    {
+      "frame": 109,
+      "x": 230.4,
+      "y": 119.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 744.3,
+      "wpts_left": 40
+    },
+    {
+      "frame": 110,
+      "x": 233.4,
+      "y": 119.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 741.9,
+      "wpts_left": 40
+    },
+    {
+      "frame": 111,
+      "x": 233.4,
+      "y": 119.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 739.4,
+      "wpts_left": 39
+    },
+    {
+      "frame": 112,
+      "x": 236.4,
+      "y": 119.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 739.4,
+      "wpts_left": 39
+    },
+    {
+      "frame": 113,
+      "x": 239.4,
+      "y": 119.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 737.0,
+      "wpts_left": 39
+    },
+    {
+      "frame": 114,
+      "x": 242.4,
+      "y": 119.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 734.6,
+      "wpts_left": 39
+    },
+    {
+      "frame": 115,
+      "x": 245.4,
+      "y": 119.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 732.3,
+      "wpts_left": 39
+    },
+    {
+      "frame": 116,
+      "x": 248.4,
+      "y": 119.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 729.9,
+      "wpts_left": 39
+    },
+    {
+      "frame": 117,
+      "x": 251.4,
+      "y": 119.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 727.5,
+      "wpts_left": 39
+    },
+    {
+      "frame": 118,
+      "x": 251.4,
+      "y": 119.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 725.1,
+      "wpts_left": 38
+    },
+    {
+      "frame": 119,
+      "x": 254.4,
+      "y": 119.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 725.1,
+      "wpts_left": 38
+    },
+    {
+      "frame": 120,
+      "x": 257.4,
+      "y": 119.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 722.8,
+      "wpts_left": 38
+    },
+    {
+      "frame": 121,
+      "x": 260.4,
+      "y": 120.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 720.4,
+      "wpts_left": 38
+    },
+    {
+      "frame": 122,
+      "x": 263.4,
+      "y": 120.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 718.1,
+      "wpts_left": 38
+    },
+    {
+      "frame": 123,
+      "x": 266.4,
+      "y": 120.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 715.8,
+      "wpts_left": 38
+    },
+    {
+      "frame": 124,
+      "x": 267.9,
+      "y": 120.0,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 713.4,
+      "wpts_left": 38
+    },
+    {
+      "frame": 125,
+      "x": 269.4,
+      "y": 120.0,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 712.3,
+      "wpts_left": 38
+    },
+    {
+      "frame": 126,
+      "x": 270.9,
+      "y": 120.0,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 711.1,
+      "wpts_left": 38
+    },
+    {
+      "frame": 127,
+      "x": 272.4,
+      "y": 120.0,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 709.9,
+      "wpts_left": 38
+    },
+    {
+      "frame": 128,
+      "x": 272.4,
+      "y": 120.0,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 708.8,
+      "wpts_left": 37
+    },
+    {
+      "frame": 129,
+      "x": 273.9,
+      "y": 120.0,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 708.8,
+      "wpts_left": 37
+    },
+    {
+      "frame": 130,
+      "x": 275.4,
+      "y": 120.1,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 707.6,
+      "wpts_left": 37
+    },
+    {
+      "frame": 131,
+      "x": 276.9,
+      "y": 120.2,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 706.4,
+      "wpts_left": 37
+    },
+    {
+      "frame": 132,
+      "x": 278.4,
+      "y": 120.2,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 705.2,
+      "wpts_left": 37
+    },
+    {
+      "frame": 133,
+      "x": 279.9,
+      "y": 120.3,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 704.0,
+      "wpts_left": 37
+    },
+    {
+      "frame": 134,
+      "x": 281.4,
+      "y": 120.3,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 702.8,
+      "wpts_left": 37
+    },
+    {
+      "frame": 135,
+      "x": 282.9,
+      "y": 120.4,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 701.6,
+      "wpts_left": 37
+    },
+    {
+      "frame": 136,
+      "x": 284.4,
+      "y": 120.4,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 700.4,
+      "wpts_left": 37
+    },
+    {
+      "frame": 137,
+      "x": 287.4,
+      "y": 120.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 699.2,
+      "wpts_left": 37
+    },
+    {
+      "frame": 138,
+      "x": 290.4,
+      "y": 120.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 696.9,
+      "wpts_left": 37
+    },
+    {
+      "frame": 139,
+      "x": 293.4,
+      "y": 120.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 694.5,
+      "wpts_left": 37
+    },
+    {
+      "frame": 140,
+      "x": 293.4,
+      "y": 120.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 692.2,
+      "wpts_left": 36
+    },
+    {
+      "frame": 141,
+      "x": 296.4,
+      "y": 121.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 692.2,
+      "wpts_left": 36
+    },
+    {
+      "frame": 142,
+      "x": 299.4,
+      "y": 121.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 689.7,
+      "wpts_left": 36
+    },
+    {
+      "frame": 143,
+      "x": 302.4,
+      "y": 121.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 687.3,
+      "wpts_left": 36
+    },
+    {
+      "frame": 144,
+      "x": 305.4,
+      "y": 121.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 684.9,
+      "wpts_left": 36
+    },
+    {
+      "frame": 145,
+      "x": 308.4,
+      "y": 122.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 682.4,
+      "wpts_left": 36
+    },
+    {
+      "frame": 146,
+      "x": 311.4,
+      "y": 122.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 680.0,
+      "wpts_left": 36
+    },
+    {
+      "frame": 147,
+      "x": 311.4,
+      "y": 122.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 677.6,
+      "wpts_left": 35
+    },
+    {
+      "frame": 148,
+      "x": 314.3,
+      "y": 122.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 677.6,
+      "wpts_left": 35
+    },
+    {
+      "frame": 149,
+      "x": 317.2,
+      "y": 123.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 675.0,
+      "wpts_left": 35
+    },
+    {
+      "frame": 150,
+      "x": 320.2,
+      "y": 124.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 672.4,
+      "wpts_left": 35
+    },
+    {
+      "frame": 151,
+      "x": 323.1,
+      "y": 124.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 669.8,
+      "wpts_left": 35
+    },
+    {
+      "frame": 152,
+      "x": 326.0,
+      "y": 125.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 667.2,
+      "wpts_left": 35
+    },
+    {
+      "frame": 153,
+      "x": 329.0,
+      "y": 125.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 664.6,
+      "wpts_left": 35
+    },
+    {
+      "frame": 154,
+      "x": 331.9,
+      "y": 126.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 662.0,
+      "wpts_left": 35
+    },
+    {
+      "frame": 155,
+      "x": 331.9,
+      "y": 126.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 659.4,
+      "wpts_left": 34
+    },
+    {
+      "frame": 156,
+      "x": 334.5,
+      "y": 128.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 659.4,
+      "wpts_left": 34
+    },
+    {
+      "frame": 157,
+      "x": 337.0,
+      "y": 129.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 656.5,
+      "wpts_left": 34
+    },
+    {
+      "frame": 158,
+      "x": 339.5,
+      "y": 131.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 653.5,
+      "wpts_left": 34
+    },
+    {
+      "frame": 159,
+      "x": 342.1,
+      "y": 133.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 650.6,
+      "wpts_left": 34
+    },
+    {
+      "frame": 160,
+      "x": 344.6,
+      "y": 134.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 647.6,
+      "wpts_left": 34
+    },
+    {
+      "frame": 161,
+      "x": 347.1,
+      "y": 136.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 644.7,
+      "wpts_left": 34
+    },
+    {
+      "frame": 162,
+      "x": 349.7,
+      "y": 137.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 641.7,
+      "wpts_left": 34
+    },
+    {
+      "frame": 163,
+      "x": 352.2,
+      "y": 139.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 638.8,
+      "wpts_left": 34
+    },
+    {
+      "frame": 164,
+      "x": 352.2,
+      "y": 139.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 635.8,
+      "wpts_left": 33
+    },
+    {
+      "frame": 165,
+      "x": 354.4,
+      "y": 141.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 635.8,
+      "wpts_left": 33
+    },
+    {
+      "frame": 166,
+      "x": 356.7,
+      "y": 143.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 632.8,
+      "wpts_left": 33
+    },
+    {
+      "frame": 167,
+      "x": 358.9,
+      "y": 145.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 629.8,
+      "wpts_left": 33
+    },
+    {
+      "frame": 168,
+      "x": 361.1,
+      "y": 147.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 626.8,
+      "wpts_left": 33
+    },
+    {
+      "frame": 169,
+      "x": 363.3,
+      "y": 149.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 623.8,
+      "wpts_left": 33
+    },
+    {
+      "frame": 170,
+      "x": 365.5,
+      "y": 151.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 620.8,
+      "wpts_left": 33
+    },
+    {
+      "frame": 171,
+      "x": 367.8,
+      "y": 153.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 617.8,
+      "wpts_left": 33
+    },
+    {
+      "frame": 172,
+      "x": 370.0,
+      "y": 155.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 614.8,
+      "wpts_left": 33
+    },
+    {
+      "frame": 173,
+      "x": 372.2,
+      "y": 157.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 611.8,
+      "wpts_left": 33
+    },
+    {
+      "frame": 174,
+      "x": 372.2,
+      "y": 157.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 608.8,
+      "wpts_left": 32
+    },
+    {
+      "frame": 175,
+      "x": 374.1,
+      "y": 159.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 608.8,
+      "wpts_left": 32
+    },
+    {
+      "frame": 176,
+      "x": 376.0,
+      "y": 162.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 605.8,
+      "wpts_left": 32
+    },
+    {
+      "frame": 177,
+      "x": 378.0,
+      "y": 164.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 602.9,
+      "wpts_left": 32
+    },
+    {
+      "frame": 178,
+      "x": 379.9,
+      "y": 166.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 599.9,
+      "wpts_left": 32
+    },
+    {
+      "frame": 179,
+      "x": 381.8,
+      "y": 169.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 596.9,
+      "wpts_left": 32
+    },
+    {
+      "frame": 180,
+      "x": 383.7,
+      "y": 171.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 594.0,
+      "wpts_left": 32
+    },
+    {
+      "frame": 181,
+      "x": 385.7,
+      "y": 173.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 591.0,
+      "wpts_left": 32
+    },
+    {
+      "frame": 182,
+      "x": 387.6,
+      "y": 175.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 588.0,
+      "wpts_left": 32
+    },
+    {
+      "frame": 183,
+      "x": 387.6,
+      "y": 175.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 585.0,
+      "wpts_left": 31
+    },
+    {
+      "frame": 184,
+      "x": 388.6,
+      "y": 178.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 585.0,
+      "wpts_left": 31
+    },
+    {
+      "frame": 185,
+      "x": 389.6,
+      "y": 181.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 582.4,
+      "wpts_left": 31
+    },
+    {
+      "frame": 186,
+      "x": 390.6,
+      "y": 184.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 579.8,
+      "wpts_left": 31
+    },
+    {
+      "frame": 187,
+      "x": 391.6,
+      "y": 187.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 577.1,
+      "wpts_left": 31
+    },
+    {
+      "frame": 188,
+      "x": 392.5,
+      "y": 190.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 574.5,
+      "wpts_left": 31
+    },
+    {
+      "frame": 189,
+      "x": 393.5,
+      "y": 192.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 571.9,
+      "wpts_left": 31
+    },
+    {
+      "frame": 190,
+      "x": 393.5,
+      "y": 192.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 569.3,
+      "wpts_left": 30
+    },
+    {
+      "frame": 191,
+      "x": 394.1,
+      "y": 195.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 569.3,
+      "wpts_left": 30
+    },
+    {
+      "frame": 192,
+      "x": 394.7,
+      "y": 198.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 566.9,
+      "wpts_left": 30
+    },
+    {
+      "frame": 193,
+      "x": 395.3,
+      "y": 201.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 564.5,
+      "wpts_left": 30
+    },
+    {
+      "frame": 194,
+      "x": 395.9,
+      "y": 204.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 562.1,
+      "wpts_left": 30
+    },
+    {
+      "frame": 195,
+      "x": 396.5,
+      "y": 207.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 559.7,
+      "wpts_left": 30
+    },
+    {
+      "frame": 196,
+      "x": 397.1,
+      "y": 210.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 557.4,
+      "wpts_left": 30
+    },
+    {
+      "frame": 197,
+      "x": 397.7,
+      "y": 213.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 555.0,
+      "wpts_left": 30
+    },
+    {
+      "frame": 198,
+      "x": 397.7,
+      "y": 213.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 552.7,
+      "wpts_left": 29
+    },
+    {
+      "frame": 199,
+      "x": 398.0,
+      "y": 216.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 552.7,
+      "wpts_left": 29
+    },
+    {
+      "frame": 200,
+      "x": 398.2,
+      "y": 219.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 550.5,
+      "wpts_left": 29
+    },
+    {
+      "frame": 201,
+      "x": 398.5,
+      "y": 222.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 548.4,
+      "wpts_left": 29
+    },
+    {
+      "frame": 202,
+      "x": 398.8,
+      "y": 225.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 546.3,
+      "wpts_left": 29
+    },
+    {
+      "frame": 203,
+      "x": 399.0,
+      "y": 228.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 544.2,
+      "wpts_left": 29
+    },
+    {
+      "frame": 204,
+      "x": 399.3,
+      "y": 231.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 542.1,
+      "wpts_left": 29
+    },
+    {
+      "frame": 205,
+      "x": 399.3,
+      "y": 231.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 540.0,
+      "wpts_left": 28
+    },
+    {
+      "frame": 206,
+      "x": 399.7,
+      "y": 234.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 540.0,
+      "wpts_left": 28
+    },
+    {
+      "frame": 207,
+      "x": 400.1,
+      "y": 237.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 537.8,
+      "wpts_left": 28
+    },
+    {
+      "frame": 208,
+      "x": 400.5,
+      "y": 240.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 535.7,
+      "wpts_left": 28
+    },
+    {
+      "frame": 209,
+      "x": 400.9,
+      "y": 243.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 533.5,
+      "wpts_left": 28
+    },
+    {
+      "frame": 210,
+      "x": 401.3,
+      "y": 246.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 531.4,
+      "wpts_left": 28
+    },
+    {
+      "frame": 211,
+      "x": 401.7,
+      "y": 249.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 529.2,
+      "wpts_left": 28
+    },
+    {
+      "frame": 212,
+      "x": 401.9,
+      "y": 250.8,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 527.1,
+      "wpts_left": 28
+    },
+    {
+      "frame": 213,
+      "x": 402.1,
+      "y": 252.3,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 526.0,
+      "wpts_left": 28
+    },
+    {
+      "frame": 214,
+      "x": 402.1,
+      "y": 252.3,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 525.0,
+      "wpts_left": 27
+    },
+    {
+      "frame": 215,
+      "x": 402.4,
+      "y": 253.7,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 525.0,
+      "wpts_left": 27
+    },
+    {
+      "frame": 216,
+      "x": 402.7,
+      "y": 255.2,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 523.8,
+      "wpts_left": 27
+    },
+    {
+      "frame": 217,
+      "x": 403.1,
+      "y": 256.6,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 522.7,
+      "wpts_left": 27
+    },
+    {
+      "frame": 218,
+      "x": 403.4,
+      "y": 258.1,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 521.6,
+      "wpts_left": 27
+    },
+    {
+      "frame": 219,
+      "x": 403.7,
+      "y": 259.6,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 520.4,
+      "wpts_left": 27
+    },
+    {
+      "frame": 220,
+      "x": 404.0,
+      "y": 261.0,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 519.3,
+      "wpts_left": 27
+    },
+    {
+      "frame": 221,
+      "x": 404.4,
+      "y": 262.5,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 518.2,
+      "wpts_left": 27
+    },
+    {
+      "frame": 222,
+      "x": 404.7,
+      "y": 264.0,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 517.0,
+      "wpts_left": 27
+    },
+    {
+      "frame": 223,
+      "x": 405.0,
+      "y": 265.4,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 515.9,
+      "wpts_left": 27
+    },
+    {
+      "frame": 224,
+      "x": 405.3,
+      "y": 266.9,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 514.8,
+      "wpts_left": 27
+    },
+    {
+      "frame": 225,
+      "x": 405.7,
+      "y": 268.4,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 513.6,
+      "wpts_left": 27
+    },
+    {
+      "frame": 226,
+      "x": 406.0,
+      "y": 269.8,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 512.5,
+      "wpts_left": 27
+    },
+    {
+      "frame": 227,
+      "x": 406.3,
+      "y": 271.3,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 511.4,
+      "wpts_left": 27
+    },
+    {
+      "frame": 228,
+      "x": 406.3,
+      "y": 271.3,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 510.3,
+      "wpts_left": 26
+    },
+    {
+      "frame": 229,
+      "x": 407.1,
+      "y": 272.6,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 510.3,
+      "wpts_left": 26
+    },
+    {
+      "frame": 230,
+      "x": 407.9,
+      "y": 273.8,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 508.9,
+      "wpts_left": 26
+    },
+    {
+      "frame": 231,
+      "x": 408.7,
+      "y": 275.1,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 507.5,
+      "wpts_left": 26
+    },
+    {
+      "frame": 232,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 506.1,
+      "wpts_left": 26
+    },
+    {
+      "frame": 233,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 234,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 235,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 236,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 237,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 238,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 239,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 240,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 241,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 242,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 243,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 244,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 245,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 246,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 247,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 248,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 249,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 250,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 251,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 252,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 253,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 254,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 255,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 256,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 257,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 258,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 259,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 260,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 261,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 262,
+      "x": 409.5,
+      "y": 276.4,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 263,
+      "x": 410.6,
+      "y": 278.2,
+      "state": "AVOID",
+      "speed": 0.7,
+      "threat": "DANGER",
+      "dist_to_goal": 504.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 264,
+      "x": 412.2,
+      "y": 280.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 502.8,
+      "wpts_left": 26
+    },
+    {
+      "frame": 265,
+      "x": 413.8,
+      "y": 283.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 500.0,
+      "wpts_left": 26
+    },
+    {
+      "frame": 266,
+      "x": 415.4,
+      "y": 285.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 497.2,
+      "wpts_left": 26
+    },
+    {
+      "frame": 267,
+      "x": 417.0,
+      "y": 288.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 494.5,
+      "wpts_left": 26
+    },
+    {
+      "frame": 268,
+      "x": 418.5,
+      "y": 290.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 491.7,
+      "wpts_left": 26
+    },
+    {
+      "frame": 269,
+      "x": 420.1,
+      "y": 293.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 488.9,
+      "wpts_left": 26
+    },
+    {
+      "frame": 270,
+      "x": 420.1,
+      "y": 293.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 486.2,
+      "wpts_left": 25
+    },
+    {
+      "frame": 271,
+      "x": 422.2,
+      "y": 295.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 486.2,
+      "wpts_left": 25
+    },
+    {
+      "frame": 272,
+      "x": 423.2,
+      "y": 296.7,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 483.3,
+      "wpts_left": 25
+    },
+    {
+      "frame": 273,
+      "x": 424.2,
+      "y": 297.8,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 481.8,
+      "wpts_left": 25
+    },
+    {
+      "frame": 274,
+      "x": 425.2,
+      "y": 298.9,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 480.3,
+      "wpts_left": 25
+    },
+    {
+      "frame": 275,
+      "x": 426.2,
+      "y": 300.0,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 478.9,
+      "wpts_left": 25
+    },
+    {
+      "frame": 276,
+      "x": 427.3,
+      "y": 301.1,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 477.4,
+      "wpts_left": 25
+    },
+    {
+      "frame": 277,
+      "x": 428.3,
+      "y": 302.2,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 476.0,
+      "wpts_left": 25
+    },
+    {
+      "frame": 278,
+      "x": 429.3,
+      "y": 303.3,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 474.5,
+      "wpts_left": 25
+    },
+    {
+      "frame": 279,
+      "x": 430.3,
+      "y": 304.4,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 473.0,
+      "wpts_left": 25
+    },
+    {
+      "frame": 280,
+      "x": 431.3,
+      "y": 305.5,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 471.6,
+      "wpts_left": 25
+    },
+    {
+      "frame": 281,
+      "x": 432.4,
+      "y": 306.6,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 470.1,
+      "wpts_left": 25
+    },
+    {
+      "frame": 282,
+      "x": 433.4,
+      "y": 307.7,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 468.6,
+      "wpts_left": 25
+    },
+    {
+      "frame": 283,
+      "x": 434.4,
+      "y": 308.8,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 467.2,
+      "wpts_left": 25
+    },
+    {
+      "frame": 284,
+      "x": 435.4,
+      "y": 309.9,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 465.7,
+      "wpts_left": 25
+    },
+    {
+      "frame": 285,
+      "x": 436.4,
+      "y": 311.1,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 464.3,
+      "wpts_left": 25
+    },
+    {
+      "frame": 286,
+      "x": 436.4,
+      "y": 311.1,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 462.8,
+      "wpts_left": 24
+    },
+    {
+      "frame": 287,
+      "x": 437.6,
+      "y": 312.0,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 462.8,
+      "wpts_left": 24
+    },
+    {
+      "frame": 288,
+      "x": 438.7,
+      "y": 313.0,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 461.3,
+      "wpts_left": 24
+    },
+    {
+      "frame": 289,
+      "x": 439.9,
+      "y": 314.0,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 459.8,
+      "wpts_left": 24
+    },
+    {
+      "frame": 290,
+      "x": 441.0,
+      "y": 314.9,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 458.3,
+      "wpts_left": 24
+    },
+    {
+      "frame": 291,
+      "x": 442.2,
+      "y": 315.9,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 456.8,
+      "wpts_left": 24
+    },
+    {
+      "frame": 292,
+      "x": 444.4,
+      "y": 317.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 455.3,
+      "wpts_left": 24
+    },
+    {
+      "frame": 293,
+      "x": 446.7,
+      "y": 319.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 452.4,
+      "wpts_left": 24
+    },
+    {
+      "frame": 294,
+      "x": 449.0,
+      "y": 321.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 449.4,
+      "wpts_left": 24
+    },
+    {
+      "frame": 295,
+      "x": 451.3,
+      "y": 323.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 446.4,
+      "wpts_left": 24
+    },
+    {
+      "frame": 296,
+      "x": 453.6,
+      "y": 325.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 443.4,
+      "wpts_left": 24
+    },
+    {
+      "frame": 297,
+      "x": 455.9,
+      "y": 327.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 440.4,
+      "wpts_left": 24
+    },
+    {
+      "frame": 298,
+      "x": 455.9,
+      "y": 327.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 437.5,
+      "wpts_left": 23
+    },
+    {
+      "frame": 299,
+      "x": 458.7,
+      "y": 328.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 437.5,
+      "wpts_left": 23
+    },
+    {
+      "frame": 300,
+      "x": 461.6,
+      "y": 329.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 434.6,
+      "wpts_left": 23
+    },
+    {
+      "frame": 301,
+      "x": 464.4,
+      "y": 330.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 431.6,
+      "wpts_left": 23
+    },
+    {
+      "frame": 302,
+      "x": 467.2,
+      "y": 331.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 428.7,
+      "wpts_left": 23
+    },
+    {
+      "frame": 303,
+      "x": 470.0,
+      "y": 332.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 425.8,
+      "wpts_left": 23
+    },
+    {
+      "frame": 304,
+      "x": 472.9,
+      "y": 333.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 422.9,
+      "wpts_left": 23
+    },
+    {
+      "frame": 305,
+      "x": 472.9,
+      "y": 333.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 420.0,
+      "wpts_left": 22
+    },
+    {
+      "frame": 306,
+      "x": 475.8,
+      "y": 334.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 420.0,
+      "wpts_left": 22
+    },
+    {
+      "frame": 307,
+      "x": 478.8,
+      "y": 334.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 417.3,
+      "wpts_left": 22
+    },
+    {
+      "frame": 308,
+      "x": 481.8,
+      "y": 335.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 414.6,
+      "wpts_left": 22
+    },
+    {
+      "frame": 309,
+      "x": 484.7,
+      "y": 335.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 411.9,
+      "wpts_left": 22
+    },
+    {
+      "frame": 310,
+      "x": 487.7,
+      "y": 336.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 409.2,
+      "wpts_left": 22
+    },
+    {
+      "frame": 311,
+      "x": 490.6,
+      "y": 336.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 406.5,
+      "wpts_left": 22
+    },
+    {
+      "frame": 312,
+      "x": 493.6,
+      "y": 336.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 403.8,
+      "wpts_left": 22
+    },
+    {
+      "frame": 313,
+      "x": 493.6,
+      "y": 336.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 401.1,
+      "wpts_left": 21
+    },
+    {
+      "frame": 314,
+      "x": 496.6,
+      "y": 337.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 401.1,
+      "wpts_left": 21
+    },
+    {
+      "frame": 315,
+      "x": 499.6,
+      "y": 337.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 398.5,
+      "wpts_left": 21
+    },
+    {
+      "frame": 316,
+      "x": 502.6,
+      "y": 337.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 396.0,
+      "wpts_left": 21
+    },
+    {
+      "frame": 317,
+      "x": 505.6,
+      "y": 337.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 393.4,
+      "wpts_left": 21
+    },
+    {
+      "frame": 318,
+      "x": 508.5,
+      "y": 338.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 390.8,
+      "wpts_left": 21
+    },
+    {
+      "frame": 319,
+      "x": 511.5,
+      "y": 338.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 388.3,
+      "wpts_left": 21
+    },
+    {
+      "frame": 320,
+      "x": 514.5,
+      "y": 338.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 385.8,
+      "wpts_left": 21
+    },
+    {
+      "frame": 321,
+      "x": 514.5,
+      "y": 338.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 383.2,
+      "wpts_left": 20
+    },
+    {
+      "frame": 322,
+      "x": 517.5,
+      "y": 338.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 383.2,
+      "wpts_left": 20
+    },
+    {
+      "frame": 323,
+      "x": 520.5,
+      "y": 338.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 380.8,
+      "wpts_left": 20
+    },
+    {
+      "frame": 324,
+      "x": 523.5,
+      "y": 338.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 378.4,
+      "wpts_left": 20
+    },
+    {
+      "frame": 325,
+      "x": 526.5,
+      "y": 338.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 376.0,
+      "wpts_left": 20
+    },
+    {
+      "frame": 326,
+      "x": 529.5,
+      "y": 338.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 373.6,
+      "wpts_left": 20
+    },
+    {
+      "frame": 327,
+      "x": 532.5,
+      "y": 338.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 371.2,
+      "wpts_left": 20
+    },
+    {
+      "frame": 328,
+      "x": 532.5,
+      "y": 338.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 368.9,
+      "wpts_left": 19
+    },
+    {
+      "frame": 329,
+      "x": 535.5,
+      "y": 339.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 368.9,
+      "wpts_left": 19
+    },
+    {
+      "frame": 330,
+      "x": 538.5,
+      "y": 339.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 366.5,
+      "wpts_left": 19
+    },
+    {
+      "frame": 331,
+      "x": 541.5,
+      "y": 339.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 364.1,
+      "wpts_left": 19
+    },
+    {
+      "frame": 332,
+      "x": 544.5,
+      "y": 339.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 361.7,
+      "wpts_left": 19
+    },
+    {
+      "frame": 333,
+      "x": 547.5,
+      "y": 339.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 359.3,
+      "wpts_left": 19
+    },
+    {
+      "frame": 334,
+      "x": 550.5,
+      "y": 339.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 356.9,
+      "wpts_left": 19
+    },
+    {
+      "frame": 335,
+      "x": 553.5,
+      "y": 339.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 354.5,
+      "wpts_left": 19
+    },
+    {
+      "frame": 336,
+      "x": 553.5,
+      "y": 339.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 352.2,
+      "wpts_left": 18
+    },
+    {
+      "frame": 337,
+      "x": 556.5,
+      "y": 339.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 352.2,
+      "wpts_left": 18
+    },
+    {
+      "frame": 338,
+      "x": 559.5,
+      "y": 340.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 349.8,
+      "wpts_left": 18
+    },
+    {
+      "frame": 339,
+      "x": 562.5,
+      "y": 340.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 347.5,
+      "wpts_left": 18
+    },
+    {
+      "frame": 340,
+      "x": 565.5,
+      "y": 340.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 345.1,
+      "wpts_left": 18
+    },
+    {
+      "frame": 341,
+      "x": 568.5,
+      "y": 340.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 342.8,
+      "wpts_left": 18
+    },
+    {
+      "frame": 342,
+      "x": 571.5,
+      "y": 340.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 340.5,
+      "wpts_left": 18
+    },
+    {
+      "frame": 343,
+      "x": 571.5,
+      "y": 340.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 338.2,
+      "wpts_left": 17
+    },
+    {
+      "frame": 344,
+      "x": 574.5,
+      "y": 340.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 338.2,
+      "wpts_left": 17
+    },
+    {
+      "frame": 345,
+      "x": 577.5,
+      "y": 341.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 335.8,
+      "wpts_left": 17
+    },
+    {
+      "frame": 346,
+      "x": 580.4,
+      "y": 341.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 333.5,
+      "wpts_left": 17
+    },
+    {
+      "frame": 347,
+      "x": 583.4,
+      "y": 341.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 331.1,
+      "wpts_left": 17
+    },
+    {
+      "frame": 348,
+      "x": 586.4,
+      "y": 341.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 328.8,
+      "wpts_left": 17
+    },
+    {
+      "frame": 349,
+      "x": 589.4,
+      "y": 342.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 326.5,
+      "wpts_left": 17
+    },
+    {
+      "frame": 350,
+      "x": 592.4,
+      "y": 342.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 324.1,
+      "wpts_left": 17
+    },
+    {
+      "frame": 351,
+      "x": 592.4,
+      "y": 342.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 321.8,
+      "wpts_left": 16
+    },
+    {
+      "frame": 352,
+      "x": 595.3,
+      "y": 343.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 321.8,
+      "wpts_left": 16
+    },
+    {
+      "frame": 353,
+      "x": 598.3,
+      "y": 343.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 319.3,
+      "wpts_left": 16
+    },
+    {
+      "frame": 354,
+      "x": 601.2,
+      "y": 344.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 316.8,
+      "wpts_left": 16
+    },
+    {
+      "frame": 355,
+      "x": 604.2,
+      "y": 344.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 314.4,
+      "wpts_left": 16
+    },
+    {
+      "frame": 356,
+      "x": 607.1,
+      "y": 345.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 311.9,
+      "wpts_left": 16
+    },
+    {
+      "frame": 357,
+      "x": 610.0,
+      "y": 346.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 309.4,
+      "wpts_left": 16
+    },
+    {
+      "frame": 358,
+      "x": 613.0,
+      "y": 346.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 306.9,
+      "wpts_left": 16
+    },
+    {
+      "frame": 359,
+      "x": 613.0,
+      "y": 346.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 304.5,
+      "wpts_left": 15
+    },
+    {
+      "frame": 360,
+      "x": 615.5,
+      "y": 348.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 304.5,
+      "wpts_left": 15
+    },
+    {
+      "frame": 361,
+      "x": 618.0,
+      "y": 350.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 301.6,
+      "wpts_left": 15
+    },
+    {
+      "frame": 362,
+      "x": 620.5,
+      "y": 351.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 298.7,
+      "wpts_left": 15
+    },
+    {
+      "frame": 363,
+      "x": 623.0,
+      "y": 353.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 295.8,
+      "wpts_left": 15
+    },
+    {
+      "frame": 364,
+      "x": 625.5,
+      "y": 354.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 292.9,
+      "wpts_left": 15
+    },
+    {
+      "frame": 365,
+      "x": 628.1,
+      "y": 356.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 290.0,
+      "wpts_left": 15
+    },
+    {
+      "frame": 366,
+      "x": 630.6,
+      "y": 358.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 287.1,
+      "wpts_left": 15
+    },
+    {
+      "frame": 367,
+      "x": 633.1,
+      "y": 359.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 284.2,
+      "wpts_left": 15
+    },
+    {
+      "frame": 368,
+      "x": 633.1,
+      "y": 359.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 281.3,
+      "wpts_left": 14
+    },
+    {
+      "frame": 369,
+      "x": 635.3,
+      "y": 361.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 281.3,
+      "wpts_left": 14
+    },
+    {
+      "frame": 370,
+      "x": 637.5,
+      "y": 363.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 278.3,
+      "wpts_left": 14
+    },
+    {
+      "frame": 371,
+      "x": 639.7,
+      "y": 365.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 275.3,
+      "wpts_left": 14
+    },
+    {
+      "frame": 372,
+      "x": 641.9,
+      "y": 368.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 272.3,
+      "wpts_left": 14
+    },
+    {
+      "frame": 373,
+      "x": 644.1,
+      "y": 370.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 269.3,
+      "wpts_left": 14
+    },
+    {
+      "frame": 374,
+      "x": 646.3,
+      "y": 372.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 266.4,
+      "wpts_left": 14
+    },
+    {
+      "frame": 375,
+      "x": 648.5,
+      "y": 374.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 263.4,
+      "wpts_left": 14
+    },
+    {
+      "frame": 376,
+      "x": 650.7,
+      "y": 376.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 260.4,
+      "wpts_left": 14
+    },
+    {
+      "frame": 377,
+      "x": 650.7,
+      "y": 376.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 257.4,
+      "wpts_left": 13
+    },
+    {
+      "frame": 378,
+      "x": 652.6,
+      "y": 378.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 257.4,
+      "wpts_left": 13
+    },
+    {
+      "frame": 379,
+      "x": 654.6,
+      "y": 380.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 254.4,
+      "wpts_left": 13
+    },
+    {
+      "frame": 380,
+      "x": 656.5,
+      "y": 383.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 251.4,
+      "wpts_left": 13
+    },
+    {
+      "frame": 381,
+      "x": 658.5,
+      "y": 385.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 248.4,
+      "wpts_left": 13
+    },
+    {
+      "frame": 382,
+      "x": 660.4,
+      "y": 387.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 245.4,
+      "wpts_left": 13
+    },
+    {
+      "frame": 383,
+      "x": 662.4,
+      "y": 389.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 242.4,
+      "wpts_left": 13
+    },
+    {
+      "frame": 384,
+      "x": 664.3,
+      "y": 392.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 239.4,
+      "wpts_left": 13
+    },
+    {
+      "frame": 385,
+      "x": 666.2,
+      "y": 394.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 236.4,
+      "wpts_left": 13
+    },
+    {
+      "frame": 386,
+      "x": 666.2,
+      "y": 394.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 233.4,
+      "wpts_left": 12
+    },
+    {
+      "frame": 387,
+      "x": 667.3,
+      "y": 397.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 233.4,
+      "wpts_left": 12
+    },
+    {
+      "frame": 388,
+      "x": 668.4,
+      "y": 400.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 230.6,
+      "wpts_left": 12
+    },
+    {
+      "frame": 389,
+      "x": 669.4,
+      "y": 402.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 227.8,
+      "wpts_left": 12
+    },
+    {
+      "frame": 390,
+      "x": 670.5,
+      "y": 405.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 225.0,
+      "wpts_left": 12
+    },
+    {
+      "frame": 391,
+      "x": 671.6,
+      "y": 408.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 222.2,
+      "wpts_left": 12
+    },
+    {
+      "frame": 392,
+      "x": 672.7,
+      "y": 411.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 219.4,
+      "wpts_left": 12
+    },
+    {
+      "frame": 393,
+      "x": 673.7,
+      "y": 414.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 216.6,
+      "wpts_left": 12
+    },
+    {
+      "frame": 394,
+      "x": 673.7,
+      "y": 414.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 213.8,
+      "wpts_left": 11
+    },
+    {
+      "frame": 395,
+      "x": 674.3,
+      "y": 417.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 213.8,
+      "wpts_left": 11
+    },
+    {
+      "frame": 396,
+      "x": 674.9,
+      "y": 419.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 211.3,
+      "wpts_left": 11
+    },
+    {
+      "frame": 397,
+      "x": 675.5,
+      "y": 422.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 208.8,
+      "wpts_left": 11
+    },
+    {
+      "frame": 398,
+      "x": 676.1,
+      "y": 425.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 206.2,
+      "wpts_left": 11
+    },
+    {
+      "frame": 399,
+      "x": 676.7,
+      "y": 428.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 203.7,
+      "wpts_left": 11
+    },
+    {
+      "frame": 400,
+      "x": 677.3,
+      "y": 431.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 201.2,
+      "wpts_left": 11
+    },
+    {
+      "frame": 401,
+      "x": 677.9,
+      "y": 434.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 198.7,
+      "wpts_left": 11
+    },
+    {
+      "frame": 402,
+      "x": 677.9,
+      "y": 434.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 196.3,
+      "wpts_left": 10
+    },
+    {
+      "frame": 403,
+      "x": 678.2,
+      "y": 437.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 196.3,
+      "wpts_left": 10
+    },
+    {
+      "frame": 404,
+      "x": 678.3,
+      "y": 439.1,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 194.0,
+      "wpts_left": 10
+    },
+    {
+      "frame": 405,
+      "x": 678.4,
+      "y": 440.6,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 192.9,
+      "wpts_left": 10
+    },
+    {
+      "frame": 406,
+      "x": 678.5,
+      "y": 442.1,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 191.8,
+      "wpts_left": 10
+    },
+    {
+      "frame": 407,
+      "x": 678.7,
+      "y": 443.6,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 190.7,
+      "wpts_left": 10
+    },
+    {
+      "frame": 408,
+      "x": 678.8,
+      "y": 445.1,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 189.6,
+      "wpts_left": 10
+    },
+    {
+      "frame": 409,
+      "x": 678.9,
+      "y": 446.6,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 188.5,
+      "wpts_left": 10
+    },
+    {
+      "frame": 410,
+      "x": 679.1,
+      "y": 448.1,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 187.5,
+      "wpts_left": 10
+    },
+    {
+      "frame": 411,
+      "x": 679.2,
+      "y": 449.5,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 186.4,
+      "wpts_left": 10
+    },
+    {
+      "frame": 412,
+      "x": 679.3,
+      "y": 451.0,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 185.3,
+      "wpts_left": 10
+    },
+    {
+      "frame": 413,
+      "x": 679.3,
+      "y": 451.0,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 184.2,
+      "wpts_left": 9
+    },
+    {
+      "frame": 414,
+      "x": 679.5,
+      "y": 452.5,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 184.2,
+      "wpts_left": 9
+    },
+    {
+      "frame": 415,
+      "x": 679.7,
+      "y": 454.0,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 183.1,
+      "wpts_left": 9
+    },
+    {
+      "frame": 416,
+      "x": 679.9,
+      "y": 455.5,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 182.0,
+      "wpts_left": 9
+    },
+    {
+      "frame": 417,
+      "x": 680.1,
+      "y": 457.0,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 180.9,
+      "wpts_left": 9
+    },
+    {
+      "frame": 418,
+      "x": 680.3,
+      "y": 458.5,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 179.8,
+      "wpts_left": 9
+    },
+    {
+      "frame": 419,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 178.8,
+      "wpts_left": 9
+    },
+    {
+      "frame": 420,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 421,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 422,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 423,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 424,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 425,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 426,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 427,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 428,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 429,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 430,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 431,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 432,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 433,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 434,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 435,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 436,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 437,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 438,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 439,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 440,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 441,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 442,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 443,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 444,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 445,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 446,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 447,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 448,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 449,
+      "x": 680.5,
+      "y": 460.0,
+      "state": "STOP",
+      "speed": 0.0,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 450,
+      "x": 680.8,
+      "y": 462.0,
+      "state": "AVOID",
+      "speed": 0.7,
+      "threat": "DANGER",
+      "dist_to_goal": 177.7,
+      "wpts_left": 9
+    },
+    {
+      "frame": 451,
+      "x": 681.2,
+      "y": 465.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 176.2,
+      "wpts_left": 9
+    },
+    {
+      "frame": 452,
+      "x": 681.5,
+      "y": 468.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 174.1,
+      "wpts_left": 9
+    },
+    {
+      "frame": 453,
+      "x": 681.9,
+      "y": 471.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 172.0,
+      "wpts_left": 9
+    },
+    {
+      "frame": 454,
+      "x": 682.3,
+      "y": 473.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 169.9,
+      "wpts_left": 9
+    },
+    {
+      "frame": 455,
+      "x": 682.3,
+      "y": 473.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 167.9,
+      "wpts_left": 8
+    },
+    {
+      "frame": 456,
+      "x": 683.0,
+      "y": 476.9,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 167.9,
+      "wpts_left": 8
+    },
+    {
+      "frame": 457,
+      "x": 683.7,
+      "y": 479.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 165.7,
+      "wpts_left": 8
+    },
+    {
+      "frame": 458,
+      "x": 684.3,
+      "y": 482.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 163.5,
+      "wpts_left": 8
+    },
+    {
+      "frame": 459,
+      "x": 685.0,
+      "y": 485.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 161.3,
+      "wpts_left": 8
+    },
+    {
+      "frame": 460,
+      "x": 685.6,
+      "y": 488.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 159.2,
+      "wpts_left": 8
+    },
+    {
+      "frame": 461,
+      "x": 686.3,
+      "y": 491.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 157.1,
+      "wpts_left": 8
+    },
+    {
+      "frame": 462,
+      "x": 686.3,
+      "y": 491.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 155.0,
+      "wpts_left": 7
+    },
+    {
+      "frame": 463,
+      "x": 687.9,
+      "y": 494.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 155.0,
+      "wpts_left": 7
+    },
+    {
+      "frame": 464,
+      "x": 689.5,
+      "y": 496.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 152.4,
+      "wpts_left": 7
+    },
+    {
+      "frame": 465,
+      "x": 691.1,
+      "y": 499.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 149.7,
+      "wpts_left": 7
+    },
+    {
+      "frame": 466,
+      "x": 692.7,
+      "y": 501.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 147.1,
+      "wpts_left": 7
+    },
+    {
+      "frame": 467,
+      "x": 694.3,
+      "y": 504.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 144.5,
+      "wpts_left": 7
+    },
+    {
+      "frame": 468,
+      "x": 695.9,
+      "y": 506.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 141.9,
+      "wpts_left": 7
+    },
+    {
+      "frame": 469,
+      "x": 697.5,
+      "y": 509.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 139.3,
+      "wpts_left": 7
+    },
+    {
+      "frame": 470,
+      "x": 699.1,
+      "y": 511.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 136.7,
+      "wpts_left": 7
+    },
+    {
+      "frame": 471,
+      "x": 699.1,
+      "y": 511.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 134.2,
+      "wpts_left": 6
+    },
+    {
+      "frame": 472,
+      "x": 701.1,
+      "y": 514.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "DANGER",
+      "dist_to_goal": 134.2,
+      "wpts_left": 6
+    },
+    {
+      "frame": 473,
+      "x": 702.1,
+      "y": 515.1,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 131.4,
+      "wpts_left": 6
+    },
+    {
+      "frame": 474,
+      "x": 703.1,
+      "y": 516.3,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 130.0,
+      "wpts_left": 6
+    },
+    {
+      "frame": 475,
+      "x": 704.1,
+      "y": 517.4,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 128.6,
+      "wpts_left": 6
+    },
+    {
+      "frame": 476,
+      "x": 705.1,
+      "y": 518.5,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 127.3,
+      "wpts_left": 6
+    },
+    {
+      "frame": 477,
+      "x": 706.1,
+      "y": 519.6,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 125.9,
+      "wpts_left": 6
+    },
+    {
+      "frame": 478,
+      "x": 707.2,
+      "y": 520.7,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 124.5,
+      "wpts_left": 6
+    },
+    {
+      "frame": 479,
+      "x": 708.2,
+      "y": 521.8,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 123.1,
+      "wpts_left": 6
+    },
+    {
+      "frame": 480,
+      "x": 709.2,
+      "y": 522.9,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 121.8,
+      "wpts_left": 6
+    },
+    {
+      "frame": 481,
+      "x": 710.2,
+      "y": 524.0,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 120.4,
+      "wpts_left": 6
+    },
+    {
+      "frame": 482,
+      "x": 711.2,
+      "y": 525.1,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 119.1,
+      "wpts_left": 6
+    },
+    {
+      "frame": 483,
+      "x": 712.2,
+      "y": 526.3,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 117.7,
+      "wpts_left": 6
+    },
+    {
+      "frame": 484,
+      "x": 713.2,
+      "y": 527.4,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 116.4,
+      "wpts_left": 6
+    },
+    {
+      "frame": 485,
+      "x": 714.2,
+      "y": 528.5,
+      "state": "SLOW",
+      "speed": 0.5,
+      "threat": "WARNING",
+      "dist_to_goal": 115.0,
+      "wpts_left": 6
+    },
+    {
+      "frame": 486,
+      "x": 716.2,
+      "y": 530.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 113.7,
+      "wpts_left": 6
+    },
+    {
+      "frame": 487,
+      "x": 716.2,
+      "y": 530.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 111.0,
+      "wpts_left": 5
+    },
+    {
+      "frame": 488,
+      "x": 718.5,
+      "y": 532.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 111.0,
+      "wpts_left": 5
+    },
+    {
+      "frame": 489,
+      "x": 720.8,
+      "y": 534.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 108.2,
+      "wpts_left": 5
+    },
+    {
+      "frame": 490,
+      "x": 723.1,
+      "y": 536.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 105.3,
+      "wpts_left": 5
+    },
+    {
+      "frame": 491,
+      "x": 725.3,
+      "y": 538.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 102.6,
+      "wpts_left": 5
+    },
+    {
+      "frame": 492,
+      "x": 727.6,
+      "y": 540.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 99.8,
+      "wpts_left": 5
+    },
+    {
+      "frame": 493,
+      "x": 729.9,
+      "y": 542.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 97.0,
+      "wpts_left": 5
+    },
+    {
+      "frame": 494,
+      "x": 732.2,
+      "y": 544.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 94.2,
+      "wpts_left": 5
+    },
+    {
+      "frame": 495,
+      "x": 734.5,
+      "y": 546.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 91.5,
+      "wpts_left": 5
+    },
+    {
+      "frame": 496,
+      "x": 734.5,
+      "y": 546.3,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 88.8,
+      "wpts_left": 4
+    },
+    {
+      "frame": 497,
+      "x": 737.3,
+      "y": 547.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 88.8,
+      "wpts_left": 4
+    },
+    {
+      "frame": 498,
+      "x": 740.1,
+      "y": 548.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 85.8,
+      "wpts_left": 4
+    },
+    {
+      "frame": 499,
+      "x": 742.9,
+      "y": 549.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 82.8,
+      "wpts_left": 4
+    },
+    {
+      "frame": 500,
+      "x": 745.7,
+      "y": 550.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 79.8,
+      "wpts_left": 4
+    },
+    {
+      "frame": 501,
+      "x": 748.5,
+      "y": 551.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 76.8,
+      "wpts_left": 4
+    },
+    {
+      "frame": 502,
+      "x": 751.3,
+      "y": 552.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 73.8,
+      "wpts_left": 4
+    },
+    {
+      "frame": 503,
+      "x": 754.1,
+      "y": 553.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 70.9,
+      "wpts_left": 4
+    },
+    {
+      "frame": 504,
+      "x": 754.1,
+      "y": 553.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 67.9,
+      "wpts_left": 3
+    },
+    {
+      "frame": 505,
+      "x": 757.1,
+      "y": 554.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 67.9,
+      "wpts_left": 3
+    },
+    {
+      "frame": 506,
+      "x": 760.0,
+      "y": 554.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 64.9,
+      "wpts_left": 3
+    },
+    {
+      "frame": 507,
+      "x": 763.0,
+      "y": 555.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 61.9,
+      "wpts_left": 3
+    },
+    {
+      "frame": 508,
+      "x": 765.9,
+      "y": 555.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 58.9,
+      "wpts_left": 3
+    },
+    {
+      "frame": 509,
+      "x": 768.9,
+      "y": 556.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 55.9,
+      "wpts_left": 3
+    },
+    {
+      "frame": 510,
+      "x": 771.9,
+      "y": 556.7,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 52.9,
+      "wpts_left": 3
+    },
+    {
+      "frame": 511,
+      "x": 774.8,
+      "y": 557.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 50.0,
+      "wpts_left": 3
+    },
+    {
+      "frame": 512,
+      "x": 774.8,
+      "y": 557.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 47.0,
+      "wpts_left": 2
+    },
+    {
+      "frame": 513,
+      "x": 777.8,
+      "y": 557.4,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 47.0,
+      "wpts_left": 2
+    },
+    {
+      "frame": 514,
+      "x": 780.8,
+      "y": 557.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 44.0,
+      "wpts_left": 2
+    },
+    {
+      "frame": 515,
+      "x": 783.8,
+      "y": 557.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 41.1,
+      "wpts_left": 2
+    },
+    {
+      "frame": 516,
+      "x": 786.8,
+      "y": 558.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 38.2,
+      "wpts_left": 2
+    },
+    {
+      "frame": 517,
+      "x": 789.8,
+      "y": 558.2,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 35.3,
+      "wpts_left": 2
+    },
+    {
+      "frame": 518,
+      "x": 792.8,
+      "y": 558.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 32.4,
+      "wpts_left": 2
+    },
+    {
+      "frame": 519,
+      "x": 792.8,
+      "y": 558.5,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 29.6,
+      "wpts_left": 1
+    },
+    {
+      "frame": 520,
+      "x": 795.8,
+      "y": 558.6,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 29.6,
+      "wpts_left": 1
+    },
+    {
+      "frame": 521,
+      "x": 798.8,
+      "y": 558.8,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 26.8,
+      "wpts_left": 1
+    },
+    {
+      "frame": 522,
+      "x": 801.8,
+      "y": 559.0,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 24.0,
+      "wpts_left": 1
+    },
+    {
+      "frame": 523,
+      "x": 804.8,
+      "y": 559.1,
+      "state": "DRIVE",
+      "speed": 1.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 21.3,
+      "wpts_left": 1
+    },
+    {
+      "frame": 524,
+      "x": 804.8,
+      "y": 559.1,
+      "state": "ARRIVE",
+      "speed": 0.0,
+      "threat": "CLEAR",
+      "dist_to_goal": 18.7,
+      "wpts_left": 1
+    }
+  ]
+}
