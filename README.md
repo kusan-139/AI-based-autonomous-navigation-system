@@ -299,7 +299,7 @@ git push origin feature/your-feature
 
 ## 👤 Author
 
-**Kusan Chakraborty **  
+**Kusan Chakraborty**  
 🎓 Computer Science Engineering Student  
 🔗 [LinkedIn](https://www.linkedin.com/in/kusan-chakraborty-988225359) 
 
